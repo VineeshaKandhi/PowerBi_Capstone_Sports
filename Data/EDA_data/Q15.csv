@@ -1,0 +1,1001 @@
+games_year,region_name,athlete_name,event_name,sport_name,medal_name
+1896,Hungary,"Alajos (Aljoz) Szokoly (-Szokol)","Athletics Men's 100 metres",Athletics,Bronze
+1896,Germany,"Hermann Otto Ludwig Weingrtner","Gymnastics Men's Horse Vault",Gymnastics,Bronze
+1896,Hungary,"Momcsill Tapavicza","Tennis Men's Singles",Tennis,Bronze
+1896,Greece,"Khios "Konstantinos"" Paspatis"","Tennis Men's Singles",Tennis,Bronze
+1896,Denmark,"Holger Louis Nielsen","Shooting Men's Muzzle-Loading Pistol, 25 metres",Shooting,Bronze
+1896,Denmark,"Holger Louis Nielsen","Fencing Men's Sabre, Individual",Fencing,Bronze
+1896,Australia,"Edwin Harold "Teddy"" Flack"","Tennis Men's Doubles",Tennis,Bronze
+1896,France,"Marie Lon Flameng","Cycling Men's Sprint",Cycling,Bronze
+1896,USA,"James Brendan Bennet Connolly","Athletics Men's Long Jump",Athletics,Bronze
+1896,USA,"Francis Adonijah "Frank"" Lane"","Athletics Men's 100 metres",Athletics,Bronze
+1896,France,"Albin Georges Lermusiaux","Athletics Men's 1,500 metres",Athletics,Bronze
+1896,Greece,"Dimitrios Loundras","Gymnastics Men's Parallel Bars, Teams",Gymnastics,Bronze
+1896,Hungary,"Gyula Kellner","Athletics Men's Marathon",Athletics,Bronze
+1896,UK,"George Stuart Robertson","Tennis Men's Doubles",Tennis,Bronze
+1896,Austria,"Felix Adolf Schmal","Cycling Men's 333 metres Time Trial",Cycling,Bronze
+1896,Austria,"Felix Adolf Schmal","Cycling Men's 10,000 metres",Cycling,Bronze
+1896,Germany,"Fritz Hofmann","Gymnastics Men's Rope Climbing",Gymnastics,Bronze
+1896,UK,"Charles Henry Stuart Gmelin","Athletics Men's 400 metres",Athletics,Bronze
+1896,Greece,"Dimitrios P. Golemis","Athletics Men's 800 metres",Athletics,Bronze
+1896,Denmark,"Alexander Viggo Jensen","Shooting Men's Free Rifle, Three Positions, 300 metres",Shooting,Bronze
+1896,Switzerland,"Jules Alexis "Louis"" Zutter"","Gymnastics Men's Pommelled Horse",Gymnastics,Gold
+1896,Germany,"Hermann Otto Ludwig Weingrtner","Gymnastics Men's Parallel Bars, Teams",Gymnastics,Gold
+1896,Germany,"Hermann Otto Ludwig Weingrtner","Gymnastics Men's Horizontal Bar",Gymnastics,Gold
+1896,Germany,"Hermann Otto Ludwig Weingrtner","Gymnastics Men's Horizontal Bar, Teams",Gymnastics,Gold
+1896,France,"Paul Michel Pierre Adrien Masson (-Nossam)","Cycling Men's 10,000 metres",Cycling,Gold
+1896,France,"Paul Michel Pierre Adrien Masson (-Nossam)","Cycling Men's 333 metres Time Trial",Cycling,Gold
+1896,Greece,"Spyridon "Spyros"" Louis"","Athletics Men's Marathon",Athletics,Gold
+1896,France,"Paul Michel Pierre Adrien Masson (-Nossam)","Cycling Men's Sprint",Cycling,Gold
+1896,Germany,"Julius Carl Fritz Manteuffel","Gymnastics Men's Parallel Bars, Teams",Gymnastics,Gold
+1896,Germany,"Julius Carl Fritz Manteuffel","Gymnastics Men's Horizontal Bar, Teams",Gymnastics,Gold
+1896,USA,"Thomas Edmund "Tom"" Burke"","Athletics Men's 400 metres",Athletics,Gold
+1896,USA,"Ellery Harding Clark","Athletics Men's High Jump",Athletics,Gold
+1896,Germany,"Conrad Helmut Fritz Bcker","Gymnastics Men's Parallel Bars, Teams",Gymnastics,Gold
+1896,UK,"John Mary Pius Boland","Tennis Men's Singles",Tennis,Gold
+1896,Germany,"Conrad Helmut Fritz Bcker","Gymnastics Men's Horizontal Bar, Teams",Gymnastics,Gold
+1896,USA,"Ellery Harding Clark","Athletics Men's Long Jump",Athletics,Gold
+1896,USA,"Thomas Edmund "Tom"" Burke"","Athletics Men's 100 metres",Athletics,Gold
+1896,USA,"James Brendan Bennet Connolly","Athletics Men's Triple Jump",Athletics,Gold
+1896,UK,"John Mary Pius Boland","Tennis Men's Doubles",Tennis,Gold
+1896,Hungary,"Alfrd (Arnold-) Hajs (Guttmann-)","Swimming Men's 100 metres Freestyle",Swimming,Gold
+1896,Hungary,"Alfrd (Arnold-) Hajs (Guttmann-)","Swimming Men's 1,200 metres Freestyle",Swimming,Gold
+1896,Germany,"Georg Otto Hilmar","Gymnastics Men's Horizontal Bar, Teams",Gymnastics,Gold
+1896,Germany,"Georg Otto Hilmar","Gymnastics Men's Parallel Bars, Teams",Gymnastics,Gold
+1896,USA,"William Welles "Bill"" Hoyt"","Athletics Men's Pole Vault",Athletics,Gold
+1896,Denmark,"Alexander Viggo Jensen","Weightlifting Men's Unlimited, Two Hands",Weightlifting,Gold
+1896,Austria,"Felix Adolf Schmal","Cycling Men's 12-Hours Race",Cycling,Gold
+1896,Germany,"Fritz Richard Gustav Schuft","Gymnastics Men's Horizontal Bar, Teams",Gymnastics,Gold
+1896,Germany,"Carl Schuhmann","Wrestling Men's Unlimited Class, Greco-Roman",Wrestling,Gold
+1896,Germany,"Friedrich Adolf "Fritz"" Traun"","Tennis Men's Doubles",Tennis,Gold
+1896,Germany,"Carl Schuhmann","Gymnastics Men's Horizontal Bar, Teams",Gymnastics,Gold
+1896,Germany,"Fritz Richard Gustav Schuft","Gymnastics Men's Parallel Bars, Teams",Gymnastics,Gold
+1896,Germany,"Carl Schuhmann","Gymnastics Men's Horse Vault",Gymnastics,Gold
+1896,Germany,"Carl Schuhmann","Gymnastics Men's Parallel Bars, Teams",Gymnastics,Gold
+1896,France,"Eugne Henry Gravelotte","Fencing Men's Foil, Individual",Fencing,Gold
+1896,France,"Marie Lon Flameng","Cycling Men's 100 kilometres",Cycling,Gold
+1896,USA,"Thomas Pelham "Tom"" Curtis"","Athletics Men's 110 metres Hurdles",Athletics,Gold
+1896,USA,"Robert "Bob"" Garrett"","Athletics Men's Shot Put",Athletics,Gold
+1896,Australia,"Edwin Harold "Teddy"" Flack"","Athletics Men's 1,500 metres",Athletics,Gold
+1896,Australia,"Edwin Harold "Teddy"" Flack"","Athletics Men's 800 metres",Athletics,Gold
+1896,Germany,"Alfred Flatow","Gymnastics Men's Parallel Bars",Gymnastics,Gold
+1896,Germany,"Alfred Flatow","Gymnastics Men's Parallel Bars, Teams",Gymnastics,Gold
+1896,Germany,"Alfred Flatow","Gymnastics Men's Horizontal Bar, Teams",Gymnastics,Gold
+1896,Germany,"Gustav Felix Flatow","Gymnastics Men's Parallel Bars, Teams",Gymnastics,Gold
+1896,Germany,"Gustav Felix Flatow","Gymnastics Men's Horizontal Bar, Teams",Gymnastics,Gold
+1896,UK,"Launceston Elliot","Weightlifting Men's Unlimited, One Hand",Weightlifting,Gold
+1896,USA,"Robert "Bob"" Garrett"","Athletics Men's Discus Throw",Athletics,Gold
+1896,Greece,"Ioannis Georgiadis","Fencing Men's Sabre, Individual",Fencing,Gold
+1896,Austria,"Paul Neumann (-Newman)","Swimming Men's 500 metres Freestyle",Swimming,Gold
+1896,USA,"John Bryant Paine","Shooting Men's Military Pistol, 25 metres",Shooting,Gold
+1896,Germany,"Karl Neukirch","Gymnastics Men's Horizontal Bar, Teams",Gymnastics,Gold
+1896,Germany,"Karl Neukirch","Gymnastics Men's Parallel Bars, Teams",Gymnastics,Gold
+1896,USA,"Sumner Paine","Shooting Men's Free Pistol, 30 metres",Shooting,Gold
+1896,Greece,"Thomas Xenakis","Gymnastics Men's Rope Climbing",Gymnastics,Silver
+1896,Switzerland,"Jules Alexis "Louis"" Zutter"","Gymnastics Men's Horse Vault",Gymnastics,Silver
+1896,Switzerland,"Jules Alexis "Louis"" Zutter"","Gymnastics Men's Parallel Bars",Gymnastics,Silver
+1896,Denmark,"Holger Louis Nielsen","Shooting Men's Free Pistol, 30 metres",Shooting,Silver
+1896,Hungary,"Nndor Dni","Athletics Men's 800 metres",Athletics,Silver
+1896,USA,"Arthur Charles Blake","Athletics Men's 1,500 metres",Athletics,Silver
+1896,France,"Eugne Henri Callot","Fencing Men's Foil, Individual",Fencing,Silver
+1896,USA,"James Brendan Bennet Connolly","Athletics Men's High Jump",Athletics,Silver
+1896,Greece,"Demetrius Emmanuel Casdagli","Tennis Men's Singles",Tennis,Silver
+1896,Greece,"Demetrius Emmanuel Casdagli","Tennis Men's Doubles",Tennis,Silver
+1896,Denmark,"Alexander Viggo Jensen","Weightlifting Men's Unlimited, One Hand",Weightlifting,Silver
+1896,UK,"Frederick Keeping","Cycling Men's 12-Hours Race",Cycling,Silver
+1896,USA,"Herbert Brotherson Jamison","Athletics Men's 400 metres",Athletics,Silver
+1896,France,"Pierre Alexandre Tuffri","Athletics Men's Triple Jump",Athletics,Silver
+1896,Germany,"Hermann Otto Ludwig Weingrtner","Gymnastics Men's Rings",Gymnastics,Silver
+1896,Germany,"Hermann Otto Ludwig Weingrtner","Gymnastics Men's Pommelled Horse",Gymnastics,Silver
+1896,Greece,"Pierre Alexandre Tuffri","Athletics Men's Triple Jump",Athletics,Silver
+1896,USA,"Albert Clinton Tyler","Athletics Men's Pole Vault",Athletics,Silver
+1896,France,"Marie Lon Flameng","Cycling Men's 10,000 metres",Cycling,Silver
+1896,USA,"Robert "Bob"" Garrett"","Athletics Men's Long Jump",Athletics,Silver
+1896,USA,"Robert "Bob"" Garrett"","Athletics Men's High Jump",Athletics,Silver
+1896,UK,"Launceston Elliot","Weightlifting Men's Unlimited, Two Hands",Weightlifting,Silver
+1896,Germany,"Fritz Hofmann","Athletics Men's 100 metres",Athletics,Silver
+1896,Germany,"Anton Gdrich","Cycling Men's Road Race, Individual",Cycling,Silver
+1896,UK,"Grantley Thomas Smart Goulding","Athletics Men's 110 metres Hurdles",Athletics,Silver
+1896,Germany,"Alfred Flatow","Gymnastics Men's Horizontal Bar",Gymnastics,Silver
+1896,Austria,"Otto Herschmann","Swimming Men's 100 metres Freestyle",Swimming,Silver
+1896,USA,"Sumner Paine","Shooting Men's Military Pistol, 25 metres",Shooting,Silver
+1896,France,"Joanni Maurice Perronet","Fencing Men's Foil, Masters, Individual",Fencing,Silver
+1896,Greece,"Dimitrios Stephen Petrokokkinos","Tennis Men's Doubles",Tennis,Silver
+1900,Netherlands,"Antonius Hubertus Maria "Antoine"" Bouwens"","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Bronze
+1900,France,"Jacques Baudrier","Sailing Mixed 1-2 Ton",Sailing,Bronze
+1900,France,"Marcel Jacques Amand Romain Boulenger","Fencing Men's Foil, Individual",Fencing,Bronze
+1900,Netherlands,"Franois Antoine Brandt","Rowing Men's Coxed Eights",Rowing,Bronze
+1900,France,"Lucien Alexandre Baudrier","Sailing Mixed 1-2 Ton",Sailing,Bronze
+1900,Norway,"Carl Albert Andersen","Athletics Men's Pole Vault",Athletics,Bronze
+1900,Netherlands,"Dirk Boest Gips","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Bronze
+1900,UK,"St George Ashe","Rowing Men's Single Sculls",Rowing,Bronze
+1900,France,"Jacques Baudrier","Sailing Mixed 0.5-1 Ton",Sailing,Bronze
+1900,Netherlands,"Hermanus Gerardus Brockmann","Rowing Men's Coxed Eights",Rowing,Bronze
+1900,USA,"John Bray","Athletics Men's 1,500 metres",Athletics,Bronze
+1900,Germany,"Max Heinrich Ammermann","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,USA,"Marion Jones (-Farquhar)","Tennis Women's Singles",Tennis,Bronze
+1900,USA,"David Connolly "Dave"" Hall"","Athletics Men's 800 metres",Athletics,Bronze
+1900,Hungary,"Lajos Gnczy (Grn-)","Athletics Men's High Jump",Athletics,Bronze
+1900,USA,"Robert "Bob"" Garrett"","Athletics Men's Standing Triple Jump",Athletics,Bronze
+1900,USA,"Marion Jones (-Farquhar)","Tennis Mixed Doubles",Tennis,Bronze
+1900,France,"Robert Gufflet","Sailing Mixed 3-10 Ton",Sailing,Bronze
+1900,UK,"Frederick Agnew Gill","Polo Men's Polo",Polo,Bronze
+1900,France,"Henri Napolon Marie Maurice Gufflet","Sailing Mixed 3-10 Ton",Sailing,Bronze
+1900,UK,"Edward Hore","Sailing Mixed 10-20 Ton",Sailing,Bronze
+1900,Belgium,"Louis Edouard Albert Glineur","Archery Men's Sur La Perche a La Pyramide",Archery,Bronze
+1900,USA,"Robert "Bob"" Garrett"","Athletics Men's Shot Put",Athletics,Bronze
+1900,Germany,"Wilhelm Emil Carstens","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,France,"Joseph Augustin "Auguste"" Donny"","Sailing Mixed 2-3 Ton",Sailing,Bronze
+1900,UK,"Reginald Frank "Reggie"" Doherty"","Tennis Men's Singles",Tennis,Bronze
+1900,Germany,"Ferdinand Ernst Felle","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,Sweden,"Ernst Robert Efraim Fast","Athletics Men's Marathon",Athletics,Bronze
+1900,France,"Jules Clvenot","Water Polo Men's Water Polo","Water Polo",Bronze
+1900,France,"Louis Marie Joseph Le Beschu de Champsavin","Equestrianism Mixed Jumping, Individual",Equestrianism,Bronze
+1900,Austria,"Siegfried Friedrich "Fritz"" Flesch"","Fencing Men's Sabre, Individual",Fencing,Bronze
+1900,France,"Jean Chastani","Athletics Men's 2,500 metres Steeplechase",Athletics,Bronze
+1900,France,"Auguste Mose Daumain","Cycling Men's 25 kilometres",Cycling,Bronze
+1900,France,"mile Lon Fisseux","Archery Men's Au Cordon Dore, 50 metres",Archery,Bronze
+1900,France,"Jean Frdric Andr Poupart de Neuflize","Equestrianism Mixed Four-In-Hand Competition",Equestrianism,Bronze
+1900,France,"Georges Lucien Dmanet","Gymnastics Men's Individual All-Around",Gymnastics,Bronze
+1900,France,"Mortimer Henri Robert Fournier-Sarlovze","Polo Men's Polo",Polo,Bronze
+1900,Mexico,"Jos Eustaquio Luis Francisco Escandn y Barrn","Polo Men's Polo",Polo,Bronze
+1900,France,"Auguste Baptiste Cavadini","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Bronze
+1900,Mexico,"Jos Manuel Mara del Corazn de Jess Escandn y Barrn","Polo Men's Polo",Polo,Bronze
+1900,Mexico,"Jos Pablo Eustaquio Manuel Francisco Escandn y Barrn","Polo Men's Polo",Polo,Bronze
+1900,France,"Robert de Montesquiou-Fzensac","Equestrianism Mixed Hacks And Hunter Combined",Equestrianism,Bronze
+1900,Germany,"Otto Fickeisen","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,UK,"Thomas William "Bill"" Burgess"","Water Polo Men's Water Polo","Water Polo",Bronze
+1900,France,"Luc Henri Herv Guy Gardye de la Chapelle","Tennis Men's Doubles",Tennis,Bronze
+1900,France,"Justinien Charles Xavier Clary (Bretonneau-)","Shooting Men's Trap",Shooting,Bronze
+1900,Netherlands,"Johannes Drost","Swimming Men's 200 metres Backstroke",Swimming,Bronze
+1900,France,"douard Alphonse de Rothschild","Polo Men's Polo",Polo,Bronze
+1900,France,"Carlos Deltour","Rowing Men's Coxed Pairs",Rowing,Bronze
+1900,UK,"Hugh Lawrence "Laurie"" Doherty"","Tennis Mixed Doubles",Tennis,Bronze
+1900,Netherlands,"Hendrik "Henk"" van Heuckelum"","Football Men's Football",Football,Bronze
+1900,France,"Paul Henri Vasseur","Water Polo Men's Water Polo","Water Polo",Bronze
+1900,Netherlands,"Johannes Wilhelmus Maria van Dijk","Rowing Men's Coxed Eights",Rowing,Bronze
+1900,Netherlands,"Henricus Tromp (-van Hettinga Tromp)","Rowing Men's Coxed Eights",Rowing,Bronze
+1900,France,"Henri Jules Valton","Sailing Mixed 0.5-1 Ton",Sailing,Bronze
+1900,France,"Franois Antoine Vilamitjana (Caubet-)","Sailing Mixed 1-2 Ton",Sailing,Bronze
+1900,USA,"Henry Anthony "Harry"" Van Bergen"","Sailing Mixed 20+ Ton",Sailing,Bronze
+1900,France,"mile Torcheboeuf","Athletics Men's Standing Long Jump",Athletics,Bronze
+1900,France,"Louis Auguste Trousselier","Cycling Men's Points Race",Cycling,Bronze
+1900,USA,"Walter Beardsley Tewksbury","Athletics Men's 200 metres Hurdles",Athletics,Bronze
+1900,France,"Antoine "Erneste"" Vdrenne"","Rowing Men's Coxed Pairs",Rowing,Bronze
+1900,Netherlands,"Anthony Ahasuerus Hendrik Sweijs","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Bronze
+1900,France,"Chrtien Andr Waydelich","Croquet Mixed Singles, One Ball",Croquet,Bronze
+1900,Belgium,"Paul Van Asbroeck","Shooting Men's Free Rifle, Three Positions, 300 metres",Shooting,Bronze
+1900,UK,"Eric Peter Hypolithe Thornton","Football Men's Football",Football,Bronze
+1900,France,"Jean Justin Ren Thomas","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Bronze
+1900,Hungary,"Zoltn Imre dn von Halmay","Swimming Men's 1,000 metres Freestyle",Swimming,Bronze
+1900,UK,"Archibald Adam Warden","Tennis Mixed Doubles",Tennis,Bronze
+1900,France,"Ren Pierre Charles Tartara","Swimming Men's 200 metres Team Swimming",Swimming,Bronze
+1900,Germany,"Hermann Wilker","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,Netherlands,"Solko Johannes van den Bergh","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Bronze
+1900,France,"Dsir Alfred Mrchez","Swimming Men's 200 metres Team Swimming",Swimming,Bronze
+1900,France,"Camille mile Gaston Michelet","Sailing Mixed 0.5-1 Ton",Sailing,Bronze
+1900,France,"Frdric Adolphe Petit","Archery Men's Au Cordon Dore, 33 metres",Archery,Bronze
+1900,France,"Flix mile Marcotte","Sailing Mixed 0.5-1 Ton",Sailing,Bronze
+1900,France,"Dsir Alfred Mrchez","Water Polo Men's Water Polo","Water Polo",Bronze
+1900,Austria,"Milan (Mihajlo) Nerali","Fencing Men's Sabre, Masters, Individual",Fencing,Bronze
+1900,France,"Lon Ernest Moreaux","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Bronze
+1900,USA,"Frederick Graham "Fred"" Moloney"","Athletics Men's 110 metres Hurdles",Athletics,Bronze
+1900,France,"Jean-Baptiste Narcisse Mimiague","Fencing Men's Foil, Masters, Individual",Fencing,Bronze
+1900,France,"Camille mile Gaston Michelet","Sailing Mixed Open",Sailing,Bronze
+1900,Canada,"George Washington F. Orton","Athletics Men's 400 metres Hurdles",Athletics,Bronze
+1900,France,"Henri Franois Peslier","Water Polo Men's Water Polo","Water Polo",Bronze
+1900,Germany,"Adolf Mller","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,Netherlands,"Walter Meijer Timmerman Thijssen","Rowing Men's Coxed Eights",Rowing,Bronze
+1900,Norway,"Ole stmo","Shooting Men's Free Rifle, Prone, 300 metres",Shooting,Bronze
+1900,USA,"Josiah Calvin McCracken, Jr.","Athletics Men's Hammer Throw",Athletics,Bronze
+1900,Netherlands,"Walter Middelberg","Rowing Men's Coxed Eights",Rowing,Bronze
+1900,Germany,"Gustav-Adolf Moths","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,France,"Charles William Martin","Sailing Mixed 0.5-1 Ton",Sailing,Bronze
+1900,France,"Frdric Adolphe Petit","Archery Men's Au Chapelet, 33 metres",Archery,Bronze
+1900,Netherlands,"Hendrik Karel Offerhaus","Rowing Men's Coxed Eights",Rowing,Bronze
+1900,Norway,"Ole stmo","Shooting Men's Free Rifle, Three Positions, 300 metres",Shooting,Bronze
+1900,France,"Nicolas Achille Paroche","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Bronze
+1900,USA,"Lewis Pendleton Sheldon","Athletics Men's Triple Jump",Athletics,Bronze
+1900,UK,"David Donaldson Robertson","Golf Men's Individual",Golf,Bronze
+1900,Netherlands,"Henrik Sillem","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Bronze
+1900,Australia,"Stanley Rupert "Stan"" Rowley"","Athletics Men's 100 metres",Athletics,Bronze
+1900,Bohemia,"Hedwiga Rosenbaumov (Austerlitz-, -Raabe)","Tennis Mixed Doubles",Tennis,Bronze
+1900,France,"Lon Se","Fencing Men's epee, Masters and Amateurs, Individual",Fencing,Bronze
+1900,Germany,"Carl Wilhelm Hugo Rster","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,Australia,"Stanley Rupert "Stan"" Rowley"","Athletics Men's 200 metres",Athletics,Bronze
+1900,Bohemia,"Hedwiga Rosenbaumov (Austerlitz-, -Raabe)","Tennis Women's Singles",Tennis,Bronze
+1900,Switzerland,"Konrad Stheli","Shooting Men's Free Pistol, 50 metres",Shooting,Bronze
+1900,France,"Maurice Auguste Raoul-Duval","Polo Men's Polo",Polo,Bronze
+1900,USA,"Lewis Pendleton Sheldon","Athletics Men's Standing High Jump",Athletics,Bronze
+1900,UK,"Sidney John Robinson","Athletics Men's 4,000 metres Steeplechase",Athletics,Bronze
+1900,France,"Marie Maurice Jacques Alfred Sautereau","Croquet Mixed Singles, Two Balls",Croquet,Bronze
+1900,Austria,"Karl August Ruberl","Swimming Men's 200 metres Freestyle",Swimming,Bronze
+1900,USA,"Richard "Dick"" Sheldon"","Athletics Men's Discus Throw",Athletics,Bronze
+1900,Australia,"Stanley Rupert "Stan"" Rowley"","Athletics Men's 60 metres",Athletics,Bronze
+1900,Denmark,"Ernst Ludwig Emanuel Schultz","Athletics Men's 400 metres",Athletics,Bronze
+1900,France,"Jean Marie Andr Prvost","Tennis Men's Doubles",Tennis,Bronze
+1900,France,"Lon Se","Fencing Men's epee, Individual",Fencing,Bronze
+1900,France,"Georges Robert Flix Constant Leuillieux","Swimming Men's 200 metres Team Swimming",Swimming,Bronze
+1900,Germany,"Franz Krwerath","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,Netherlands,"Roelof Klein","Rowing Men's Coxed Eights",Rowing,Bronze
+1900,Germany,"Richard Wilhelm Julius Krner","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,France,"Louis Alexandre Laufray","Water Polo Men's Water Polo","Water Polo",Bronze
+1900,USA,"John Henry Lake","Cycling Men's Sprint",Cycling,Bronze
+1900,Denmark,"Peder Rudolph Lykkeberg","Swimming Men's Underwater Swimming",Swimming,Bronze
+1900,UK,"Patrick Joseph "Pat"" Leahy"","Athletics Men's Long Jump",Athletics,Bronze
+1900,Netherlands,"Ruurd Gerbens Leegstra","Rowing Men's Coxed Eights",Rowing,Bronze
+1900,France,"Henri Albert Fernand Laurent","Fencing Men's epee, Masters, Individual",Fencing,Bronze
+1900,France,"Auguste Jean Baptiste Louis Joseph Marc","Water Polo Men's Water Polo","Water Polo",Bronze
+1900,UK,"Harold Segerson Mahony","Tennis Men's Doubles",Tennis,Bronze
+1900,Germany,"Karl Georg Lehle","Rowing Men's Coxed Fours",Rowing,Bronze
+1900,France,"Maurice Marie Lecoq","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Bronze
+1900,France,"Gabriel Charles Jean Le Bret","Sailing Mixed 0.5-1 Ton",Sailing,Bronze
+1900,UK,"John Thomas "Jack"" Rimmer"","Athletics Men's 4,000 metres Steeplechase",Athletics,Gold
+1900,Switzerland,"Louis Marcel Richardet","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Gold
+1900,UK,"John Nicholas","Football Men's Football",Football,Gold
+1900,Switzerland,"Conrad Karl Rderer","Shooting Men's Free Pistol, 50 metres",Shooting,Gold
+1900,Australia,"Stanley Rupert "Stan"" Rowley"","Athletics Men's 5,000 metres, Team",Athletics,Gold
+1900,France,"Nicolas Achille Paroche","Shooting Men's Free Rifle, Prone, 300 metres",Shooting,Gold
+1900,USA,"Cornelius Louis Andr Roosevelt","Rugby Men's Rugby",Rugby,Gold
+1900,Sweden,"August Nilsson","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Gold
+1900,Switzerland,"Paul Probst","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Gold
+1900,UK,"John Thomas "Jack"" Rimmer"","Athletics Men's 5,000 metres, Team",Athletics,Gold
+1900,UK,"William Francis Patterson "Bill"" Quash"","Football Men's Football",Football,Gold
+1900,UK,"Sidney John Robinson","Athletics Men's 5,000 metres, Team",Athletics,Gold
+1900,France,"Paul Eugne Clestin Perquer","Sailing Mixed 10-20 Ton",Sailing,Gold
+1900,France,"Franois tienne "Frantz"" Reichel"","Rugby Men's Rugby",Rugby,Gold
+1900,France,"Alexandre Emmanuel Pharamond","Rugby Men's Rugby",Rugby,Gold
+1900,Switzerland,"Louis Marcel Richardet","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Gold
+1900,UK,"Alfred "Toby"" Rawlinson"","Polo Men's Polo",Polo,Gold
+1900,USA,"Meyer Prinstein","Athletics Men's Triple Jump",Athletics,Gold
+1900,UK,"Alfred James Powlesland","Cricket Men's Cricket",Cricket,Gold
+1900,Canada,"George Washington F. Orton","Athletics Men's 2,500 metres Steeplechase",Athletics,Gold
+1900,Switzerland,"Conrad Karl Rderer","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Gold
+1900,France,"Andr Flix Rischmann","Rugby Men's Rugby",Rugby,Gold
+1900,France,"Joseph Adolphe Thophile Olivier","Rugby Men's Rugby",Rugby,Gold
+1900,Denmark,"Edgar Lindenau Aabye","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Gold
+1900,France,"Franois Alexandre mile Billard","Sailing Mixed 10-20 Ton",Sailing,Gold
+1900,Netherlands,"Franois Antoine Brandt","Rowing Men's Coxed Pairs",Rowing,Gold
+1900,Italy,"Ernesto Mario "Enrico"" Brusoni"","Cycling Men's Points Race",Cycling,Gold
+1900,UK,"Harry Richard Corner","Cricket Men's Cricket",Cricket,Gold
+1900,France,"Albert Jean Louis Ayat","Fencing Men's epee, Masters, Individual",Fencing,Gold
+1900,UK,"Tom Eustace Burridge","Football Men's Football",Football,Gold
+1900,Italy,"Antonio Conte","Fencing Men's Sabre, Masters, Individual",Fencing,Gold
+1900,France,"Louis Bastien","Cycling Men's 25 kilometres",Cycling,Gold
+1900,France,"Gaston Achille Louis Aumoitte","Croquet Mixed Doubles",Croquet,Gold
+1900,France,"Gaston Frdric Blanchy","Sailing Mixed 2-3 Ton",Sailing,Gold
+1900,USA,"William John "Bill"" Carr"","Rowing Men's Coxed Eights",Rowing,Gold
+1900,France,"Jean Collas","Rugby Men's Rugby",Rugby,Gold
+1900,France,"Albert Jean Louis Ayat","Fencing Men's epee, Masters and Amateurs, Individual",Fencing,Gold
+1900,France,"Hermann Joseph Barrelet","Rowing Men's Single Sculls",Rowing,Gold
+1900,UK,"Claude Percival Buckenham","Football Men's Football",Football,Gold
+1900,UK,"Frederick William Christian","Cricket Men's Cricket",Cricket,Gold
+1900,Netherlands,"Hermanus Gerardus Brockmann","Rowing Men's Coxed Pairs",Rowing,Gold
+1900,UK,"George John Buckley","Cricket Men's Cricket",Cricket,Gold
+1900,UK,"Charlotte Reinagle Cooper (-Sterry)","Tennis Mixed Doubles",Tennis,Gold
+1900,UK,"Francis Romulus Burchell","Cricket Men's Cricket",Cricket,Gold
+1900,USA,"Margaret Ives Abbott (-Dunne)","Golf Women's Individual",Golf,Gold
+1900,France,"Jean Baptiste Albert Joseph Cau","Rowing Men's Coxed Fours",Rowing,Gold
+1900,USA,"Irving Knott "Irv"" Baxter"","Athletics Men's Pole Vault",Athletics,Gold
+1900,USA,"Irving Knott "Irv"" Baxter"","Athletics Men's High Jump",Athletics,Gold
+1900,Hungary,"Rudolf (-Rezs) Bauer","Athletics Men's Discus Throw",Athletics,Gold
+1900,UK,"Charles Bennett","Athletics Men's 1,500 metres",Athletics,Gold
+1900,UK,"Charles Bennett","Athletics Men's 5,000 metres, Team",Athletics,Gold
+1900,Switzerland,"Franz Bckli","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Gold
+1900,USA,"Louis Grenville "Lou"" Abell"","Rowing Men's Coxed Eights",Rowing,Gold
+1900,France,"Gaston Frdric Blanchy","Sailing Mixed 2-3 Ton",Sailing,Gold
+1900,UK,"Charlotte Reinagle Cooper (-Sterry)","Tennis Women's Singles",Tennis,Gold
+1900,France,"Louis Albert Auguste-Dormeuil (Dormeuil-)","Sailing Mixed 0.5-1 Ton",Sailing,Gold
+1900,UK,"Arthur Ernest Burrington Birkett","Cricket Men's Cricket",Cricket,Gold
+1900,France,"Gaston Achille Louis Aumoitte","Croquet Mixed Singles, One Ball",Croquet,Gold
+1900,France,"Jules Henri Bouckaert","Rowing Men's Coxed Fours",Rowing,Gold
+1900,UK,"Alfred Ernest Chalk","Football Men's Football",Football,Gold
+1900,UK,"Alfred James Bowerman","Cricket Men's Cricket",Cricket,Gold
+1900,France,"Vladimir Atoff","Rugby Men's Rugby",Rugby,Gold
+1900,France,"Lon Binoche","Rugby Men's Rugby",Rugby,Gold
+1900,UK,"John Graham Hope de la Poer Beresford","Polo Men's Polo",Polo,Gold
+1900,Belgium,"Constant Octave Van Langhendonck","Equestrianism Mixed Long Jump",Equestrianism,Gold
+1900,Germany,"Paul Wiesner","Sailing Mixed 1-2 Ton",Sailing,Gold
+1900,Spain,"Francisco Villota y Baquiola","Basque Pelota Men's Two-Man Teams With Cesta","Basque Pelota",Gold
+1900,Denmark,"Charles Gustav Wilhelm Winckler","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Gold
+1900,France,"Chrtien Andr Waydelich","Croquet Mixed Singles, Two Balls",Croquet,Gold
+1900,USA,"Alvin Christian "Al"" Kraenzlein"","Athletics Men's 110 metres Hurdles",Athletics,Gold
+1900,USA,"Alvin Christian "Al"" Kraenzlein"","Athletics Men's 200 metres Hurdles",Athletics,Gold
+1900,USA,"Alvin Christian "Al"" Kraenzlein"","Athletics Men's Long Jump",Athletics,Gold
+1900,France,"Marie Victor Xavier Lardanchet","Rugby Men's Rugby",Rugby,Gold
+1900,France,"Louis Napolon Murat","Equestrianism Mixed Hacks And Hunter Combined",Equestrianism,Gold
+1900,France,"Hubert Jean Daniel Lefbvre","Rugby Men's Rugby",Rugby,Gold
+1900,USA,"Edward "Ed"" Marsh"","Rowing Men's Coxed Eights",Rowing,Gold
+1900,USA,"Frank Jay Mackey","Polo Men's Polo",Polo,Gold
+1900,Belgium,"Georges Lambert Casimir Nagelmackers","Equestrianism Mixed Four-In-Hand Competition",Equestrianism,Gold
+1900,"New Zealand","Michael Victor Alexander Lindberg","Water Polo Men's Water Polo","Water Polo",Gold
+1900,UK,"Algernon Maudslay","Sailing Mixed Open",Sailing,Gold
+1900,UK,"Algernon Maudslay","Sailing Mixed 0.5-1 Ton",Sailing,Gold
+1900,Australia,"Frederick Claude Vivian "Fred"" Lane"","Swimming Men's 200 metres Freestyle",Swimming,Gold
+1900,USA,"Maxwell Warburn "Maxey"" Long"","Athletics Men's 400 metres",Athletics,Gold
+1900,Denmark,"Lars Jrgen Madsen","Shooting Men's Free Rifle, Standing, 300 metres",Shooting,Gold
+1900,USA,"Roscoe Conkling Lockwood","Rowing Men's Coxed Eights",Rowing,Gold
+1900,Australia,"Frederick Claude Vivian "Fred"" Lane"","Swimming Men's 200 metres Obstacle Course",Swimming,Gold
+1900,France,"Louis Lucien Mrignac","Fencing Men's Foil, Masters, Individual",Fencing,Gold
+1900,Switzerland,"Friedrich Lthi","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Gold
+1900,France,"Eugne Mougin","Archery Men's Au Chapelet, 50 metres",Archery,Gold
+1900,UK,"Lorne Campbell Currie","Sailing Mixed Open",Sailing,Gold
+1900,UK,"Lorne Campbell Currie","Sailing Mixed 0.5-1 Ton",Sailing,Gold
+1900,France,"mile Louis Franois Dsir Coste","Fencing Men's Foil, Individual",Fencing,Gold
+1900,France,"Henry Jean Guy "Jean-Guy"" Gautier"","Rugby Men's Rugby",Rugby,Gold
+1900,UK,"William Stephens Donne","Cricket Men's Cricket",Cricket,Gold
+1900,USA,"John Francis Geiger","Rowing Men's Coxed Eights",Rowing,Gold
+1900,France,"Louis Verrant Gabriel Le Bailly de la Falaise","Fencing Men's Sabre, Individual",Fencing,Gold
+1900,Switzerland,"Hermann Alexandre de Pourtals","Sailing Mixed 1-2 Ton",Sailing,Gold
+1900,Switzerland,"Hlne de Pourtals (Barbey-)","Sailing Mixed 1-2 Ton",Sailing,Gold
+1900,Switzerland,"Bernard Alexandre Georges Edmond de Pourtals","Sailing Mixed 1-2 Ton",Sailing,Gold
+1900,France,"Auguste Paul Almire Giroux","Rugby Men's Rugby",Rugby,Gold
+1900,France,"mile Grumiaux","Archery Men's Sur La Perche a La Pyramide",Archery,Gold
+1900,Belgium,"Emmanuel Foulon","Archery Men's Sur La Perche a La Herse",Archery,Gold
+1900,UK,"Denis St. George Daly","Polo Men's Polo",Polo,Gold
+1900,UK,"John Gretton, Jr.","Sailing Mixed 0.5-1 Ton",Sailing,Gold
+1900,USA,"John Joseph Flanagan","Athletics Men's Hammer Throw",Athletics,Gold
+1900,France,"mile Henri Delchambre","Rowing Men's Coxed Fours",Rowing,Gold
+1900,UK,"Frederick William Cuming","Cricket Men's Cricket",Cricket,Gold
+1900,France,"Dominique Maximien Gardres","Equestrianism Mixed High Jump",Equestrianism,Gold
+1900,UK,"William Edgar Exshaw","Sailing Mixed 2-3 Ton",Sailing,Gold
+1900,UK,"William Edgar Exshaw","Sailing Mixed 2-3 Ton",Sailing,Gold
+1900,Cuba,"Ramn Fonst Segundo","Fencing Men's epee, Individual",Fencing,Gold
+1900,UK,"Robert Arnold Crawshaw","Water Polo Men's Water Polo","Water Polo",Gold
+1900,USA,"John Onins Exley, Jr.","Rowing Men's Coxed Eights",Rowing,Gold
+1900,USA,"Raymond Clarence "Ray"" Ewry"","Athletics Men's Standing High Jump",Athletics,Gold
+1900,UK,"John Gretton, Jr.","Sailing Mixed Open",Sailing,Gold
+1900,USA,"Raymond Clarence "Ray"" Ewry"","Athletics Men's Standing Long Jump",Athletics,Gold
+1900,USA,"Raymond Clarence "Ray"" Ewry"","Athletics Men's Standing Triple Jump",Athletics,Gold
+1900,USA,"Harry Leopold DeBaecke","Rowing Men's Coxed Eights",Rowing,Gold
+1900,France,"Henri Joseph Marcel Gilardoni","Sailing Mixed 3-10 Ton",Sailing,Gold
+1900,Spain,"Jos de Amzola y Aspiza","Basque Pelota Men's Two-Man Teams With Cesta","Basque Pelota",Gold
+1900,France,"Charles Marius Duma Adolphe Gondouin","Rugby Men's Rugby",Rugby,Gold
+1900,France,"Charles Devendeville","Swimming Men's Underwater Swimming",Swimming,Gold
+1900,UK,"Hugh Lawrence "Laurie"" Doherty"","Tennis Men's Singles",Tennis,Gold
+1900,UK,"Hugh Lawrence "Laurie"" Doherty"","Tennis Men's Doubles",Tennis,Gold
+1900,Switzerland,"Alfred Grtter","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Gold
+1900,UK,"Reginald Frank "Reggie"" Doherty"","Tennis Men's Doubles",Tennis,Gold
+1900,Germany,"Carl Heinrich Goler","Rowing Men's Coxed Fours",Rowing,Gold
+1900,France,"mile Roger de Thomas de Barbarin","Shooting Men's Trap",Shooting,Gold
+1900,Germany,"Gustav Ludwig Goler","Rowing Men's Coxed Fours",Rowing,Gold
+1900,Germany,"Carl Oscar Goler, II","Rowing Men's Coxed Fours",Rowing,Gold
+1900,UK,"William Sullivan Gosling","Football Men's Football",Football,Gold
+1900,UK,"Reginald Frank "Reggie"" Doherty"","Tennis Mixed Doubles",Tennis,Gold
+1900,France,"Henri Alphonse Hazebrouck (Charlet-)","Rowing Men's Coxed Fours",Rowing,Gold
+1900,UK,"William Henry","Water Polo Men's Water Polo","Water Polo",Gold
+1900,USA,"James Benner "Jim"" Juvenal"","Rowing Men's Coxed Eights",Rowing,Gold
+1900,Switzerland,"Emil Kellenberger","Shooting Men's Free Rifle, Three Positions, 300 metres",Shooting,Gold
+1900,Germany,"Ernst Heinrich Hoppenberg","Swimming Men's 200 metres Backstroke",Swimming,Gold
+1900,Netherlands,"Roelof Klein","Rowing Men's Coxed Pairs",Rowing,Gold
+1900,Belgium,"Aim Joseph Haegeman","Equestrianism Mixed Jumping, Individual",Equestrianism,Gold
+1900,France,"Henri Louis Hrouin, Sr.","Archery Men's Championnat Du Monde",Archery,Gold
+1900,UK,"Harry Wyndham Jefferson","Sailing Mixed 3-10 Ton",Sailing,Gold
+1900,USA,"Alvin Christian "Al"" Kraenzlein"","Athletics Men's 60 metres",Athletics,Gold
+1900,France,"Henri Louis Hrouin, Sr.","Archery Men's Au Cordon Dore, 50 metres",Archery,Gold
+1900,Germany,"Walther Katzenstein","Rowing Men's Coxed Fours",Rowing,Gold
+1900,UK,"John Arthur Jarvis","Water Polo Men's Water Polo","Water Polo",Gold
+1900,Germany,"Max Otto Hainle","Swimming Men's 200 metres Team Swimming",Swimming,Gold
+1900,UK,"Edward Hore","Sailing Mixed 3-10 Ton",Sailing,Gold
+1900,Germany,"Ernst Heinrich Hoppenberg","Swimming Men's 200 metres Team Swimming",Swimming,Gold
+1900,USA,"Edwin P. "Ed"" Hedley"","Rowing Men's Coxed Eights",Rowing,Gold
+1900,USA,"Foxhall Parker Keene","Polo Men's Polo",Polo,Gold
+1900,USA,"Frank Washington Jarvis","Athletics Men's 100 metres",Athletics,Gold
+1900,Switzerland,"Emil Kellenberger","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Gold
+1900,France,"Georges douard Johin","Croquet Mixed Doubles",Croquet,Gold
+1900,UK,"John Arthur Jarvis","Swimming Men's 1,000 metres Freestyle",Swimming,Gold
+1900,UK,"John Arthur Jarvis","Swimming Men's 4,000 metres Freestyle",Swimming,Gold
+1900,France,"Albert Philippe Taillandier","Cycling Men's Sprint",Cycling,Gold
+1900,Luxembourg,"Michel Johann Thato","Athletics Men's Marathon",Athletics,Gold
+1900,USA,"Richard "Dick"" Sheldon"","Athletics Men's Shot Put",Athletics,Gold
+1900,Sweden,"Karl Gustaf Vilhelm Staaf (Johansson-)","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Gold
+1900,USA,"Walter Beardsley Tewksbury","Athletics Men's 400 metres Hurdles",Athletics,Gold
+1900,Switzerland,"Konrad Stheli","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Gold
+1900,USA,"Walter Beardsley Tewksbury","Athletics Men's 200 metres",Athletics,Gold
+1900,Switzerland,"Konrad Stheli","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Gold
+1900,Sweden,"Gustaf Fredrik Sderstrm","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Gold
+1900,Belgium,"Gerard Theodor Hubert Van Innis","Archery Men's Au Chapelet, 33 metres",Archery,Gold
+1900,UK,"Alfred Ernest Tysoe","Athletics Men's 5,000 metres, Team",Athletics,Gold
+1900,UK,"Frederick Stapleton","Water Polo Men's Water Polo","Water Polo",Gold
+1900,UK,"Alfred Ernest Tysoe","Athletics Men's 800 metres",Athletics,Gold
+1900,UK,"Richard Rennie Turner","Football Men's Football",Football,Gold
+1900,France,"Silvaine Gustave Sandras","Gymnastics Men's Individual All-Around",Gymnastics,Gold
+1900,USA,"Charles Edward Sands","Golf Men's Individual",Golf,Gold
+1900,UK,"John Symes","Cricket Men's Cricket",Cricket,Gold
+1900,Italy,"Giovanni Giorgio "Giangiorgio"" Trissino"","Equestrianism Mixed High Jump",Equestrianism,Gold
+1900,France,"mile Pierre Sarrade","Rugby Men's Rugby",Rugby,Gold
+1900,Switzerland,"Konrad Stheli","Shooting Men's Free Rifle, Kneeling, 300 metres",Shooting,Gold
+1900,UK,"Montagu Henry Toller","Cricket Men's Cricket",Cricket,Gold
+1900,Belgium,"Gerard Theodor Hubert Van Innis","Archery Men's Au Cordon Dore, 33 metres",Archery,Gold
+1900,Germany,"Oscar Waldemar Tietgens","Rowing Men's Coxed Fours",Rowing,Gold
+1900,Denmark,"Eugen Stahl Schmidt","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Gold
+1900,Germany,"Franz Albert Amrhein","Rugby Men's Rugby",Rugby,Silver
+1900,France,"Jacques Baudrier","Sailing Mixed 0.5-1 Ton",Sailing,Silver
+1900,USA,"Irving Knott "Irv"" Baxter"","Athletics Men's Standing High Jump",Athletics,Silver
+1900,UK,"William Wallace Anderson","Cricket Men's Cricket",Cricket,Silver
+1900,USA,"Irving Knott "Irv"" Baxter"","Athletics Men's Standing Long Jump",Athletics,Silver
+1900,France,"Franois "Nol"" Bas"","Gymnastics Men's Individual All-Around",Gymnastics,Silver
+1900,USA,"Irving Knott "Irv"" Baxter"","Athletics Men's Standing Triple Jump",Athletics,Silver
+1900,France,"Richard Louis Pierre Allemane","Football Men's Football",Football,Silver
+1900,UK,"Francis Charles "Frank"" Bayliss"","Rugby Men's Rugby",Rugby,Silver
+1900,France,"Louis Dsir Bach","Football Men's Football",Football,Silver
+1900,Germany,"Paul Wiesner","Sailing Mixed Open",Sailing,Silver
+1900,USA,"Pauline "Polly"" Whittier (-Iselin)"","Golf Women's Individual",Golf,Silver
+1900,Austria,"Karl August Ruberl","Swimming Men's 200 metres Backstroke",Swimming,Silver
+1900,India,"Norman Gilbert Pritchard (-Trevor)","Athletics Men's 200 metres Hurdles",Athletics,Silver
+1900,Italy,"Italo Santelli","Fencing Men's Sabre, Masters, Individual",Fencing,Silver
+1900,Norway,"Tom Seeberg","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Silver
+1900,France,"Nicolas Achille Paroche","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Silver
+1900,UK,"Sidney John Robinson","Athletics Men's 2,500 metres Steeplechase",Athletics,Silver
+1900,France,"Nicolas Achille Paroche","Shooting Men's Free Pistol, 50 metres",Shooting,Silver
+1900,Norway,"Ole Andreas Sther","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Silver
+1900,France,"Adolphe Gaston Ragueneau","Athletics Men's 5,000 metres, Team",Athletics,Silver
+1900,France,"mile Pierre Sarrade","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Silver
+1900,USA,"Meyer Prinstein","Athletics Men's Long Jump",Athletics,Silver
+1900,UK,"Walter Mathers Rutherford","Golf Men's Individual",Golf,Silver
+1900,France,"Louis Joseph Roffo","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Silver
+1900,France,"Charles Jean Baptiste Perrin","Rowing Men's Coxed Fours",Rowing,Silver
+1900,France,"Fernando "Fernand"" Sanz y Martinez de Arizala"","Cycling Men's Sprint",Cycling,Silver
+1900,India,"Norman Gilbert Pritchard (-Trevor)","Athletics Men's 200 metres",Athletics,Silver
+1900,France,"Louis Lonce Thophile Perre","Fencing Men's epee, Individual",Fencing,Silver
+1900,UK,"Alfred John Schneidau","Cricket Men's Cricket",Cricket,Silver
+1900,Germany,"August Friedrich Christian Schmierer","Rugby Men's Rugby",Rugby,Silver
+1900,France,"Auguste Serrurier","Archery Men's Sur La Perche a La Pyramide",Archery,Silver
+1900,France,"Auguste Serrurier","Archery Men's Sur La Perche a La Herse",Archery,Silver
+1900,UK,"Douglas Francis Robinson","Cricket Men's Cricket",Cricket,Silver
+1900,France,"Jean-Baptiste tienne August Charcot","Sailing Mixed 0-0.5 Ton",Sailing,Silver
+1900,UK,"Walter Selby Buckmaster","Polo Men's Polo",Polo,Silver
+1900,Switzerland,"Hlne de Pourtals (Barbey-)","Sailing Mixed 1-2 Ton",Sailing,Silver
+1900,France,"Louis Charles Marie Dutfoy","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Silver
+1900,UK,"Arthur John Lovett Darby","Rugby Men's Rugby",Rugby,Silver
+1900,France,"Henry Lon mile Deloge","Athletics Men's 5,000 metres, Team",Athletics,Silver
+1900,France,"Albert Alphonse Champoudry","Athletics Men's 5,000 metres, Team",Athletics,Silver
+1900,France,"Maxime Omer Mathieu "Max"" Omer-Dcugis"","Tennis Men's Doubles",Tennis,Silver
+1900,USA,"John Francis Cregan","Athletics Men's 800 metres",Athletics,Silver
+1900,France,"mile Julien Champion","Athletics Men's Marathon",Athletics,Silver
+1900,Belgium,"Oscar Charles de Somville","Rowing Men's Coxed Eights",Rowing,Silver
+1900,Netherlands,"Hermanus Gerardus Brockmann","Rowing Men's Coxed Fours",Rowing,Silver
+1900,Switzerland,"Hermann Alexandre de Pourtals","Sailing Mixed 1-2 Ton",Sailing,Silver
+1900,UK,"Clement Pemberton Deykin","Rugby Men's Rugby",Rugby,Silver
+1900,USA,"Meredith Bright Colket","Athletics Men's Pole Vault",Athletics,Silver
+1900,Germany,"Hugo Adolf Betting","Rugby Men's Rugby",Rugby,Silver
+1900,France,"Victor Antoine Jules Cadet","Swimming Men's 200 metres Team Swimming",Swimming,Silver
+1900,France,"Jean Collas","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Silver
+1900,Belgium,"Prospre Bruggeman","Rowing Men's Coxed Eights",Rowing,Silver
+1900,USA,"Basil Spalding de Garmendia","Tennis Men's Doubles",Tennis,Silver
+1900,France,"Jean-Baptiste tienne August Charcot","Sailing Mixed 0-0.5 Ton",Sailing,Silver
+1900,France,"Jean Pierre Marie Joseph  De Madre De Loos","Polo Men's Polo",Polo,Silver
+1900,Belgium,"Jules Maria Adolphe Henri De Bisschop","Rowing Men's Coxed Eights",Rowing,Silver
+1900,France,"Henry Lon mile Deloge","Athletics Men's 1,500 metres",Athletics,Silver
+1900,Switzerland,"Bernard Alexandre Georges Edmond de Pourtals","Sailing Mixed 1-2 Ton",Sailing,Silver
+1900,UK,"John Selwin Calverley","Sailing Mixed 20+ Ton",Sailing,Silver
+1900,USA,"James Brendan Bennet Connolly","Athletics Men's Triple Jump",Athletics,Silver
+1900,UK,"Charles Bennett","Athletics Men's 4,000 metres Steeplechase",Athletics,Silver
+1900,France,"Fernand mile Canelle","Football Men's Football",Football,Silver
+1900,France,"Gilbert Bougnol","Fencing Men's epee, Masters, Individual",Fencing,Silver
+1900,France,"Jean Chastani","Athletics Men's 5,000 metres, Team",Athletics,Silver
+1900,France,"Jean lie Louis Octave Guillaume Svre Amanieu Decazes et de Glucksbierg","Sailing Mixed 10-20 Ton",Sailing,Silver
+1900,France,"Maurice Macaire","Football Men's Football",Football,Silver
+1900,France,"Eugne Henri Masson","Fencing Men's Foil, Individual",Fencing,Silver
+1900,France,"Georges Joseph Lumpp","Rowing Men's Coxed Fours",Rowing,Silver
+1900,UK,"Harold Segerson Mahony","Tennis Mixed Doubles",Tennis,Silver
+1900,Denmark,"Anders Peter Nielsen","Shooting Men's Free Rifle, Prone, 300 metres",Shooting,Silver
+1900,France,"Charles William Martin","Sailing Mixed 0.5-1 Ton",Sailing,Silver
+1900,UK,"Arthur MacEvoy","Cricket Men's Cricket",Cricket,Silver
+1900,France,"Robert Linzeler","Sailing Mixed 0-0.5 Ton",Sailing,Silver
+1900,France,"Camille mile Gaston Michelet","Sailing Mixed 0.5-1 Ton",Sailing,Silver
+1900,Germany,"Richard Ludwig","Rugby Men's Rugby",Rugby,Silver
+1900,UK,"Herbert Saint John Nicol","Rugby Men's Rugby",Rugby,Silver
+1900,USA,"Walter Adolph McCreery","Polo Men's Polo",Polo,Silver
+1900,USA,"Josiah Calvin McCracken, Jr.","Athletics Men's Shot Put",Athletics,Silver
+1900,USA,"John Frederick McLean","Athletics Men's 110 metres Hurdles",Athletics,Silver
+1900,Belgium,"Frank Olof Odberg","Rowing Men's Coxed Eights",Rowing,Silver
+1900,UK,"Harold Segerson Mahony","Tennis Men's Singles",Tennis,Silver
+1900,Denmark,"Anders Peter Nielsen","Shooting Men's Free Rifle, Kneeling, 300 metres",Shooting,Silver
+1900,Denmark,"Anders Peter Nielsen","Shooting Men's Free Rifle, Three Positions, 300 metres",Shooting,Silver
+1900,France,"Robert Linzeler","Sailing Mixed 0-0.5 Ton",Sailing,Silver
+1900,UK,"Herbert Arthur Loveitt","Rugby Men's Rugby",Rugby,Silver
+1900,France,"Mathias Joseph Ferdinand Jules Henri Mialaret","Sailing Mixed 2-3 Ton",Sailing,Silver
+1900,Norway,"Ole stmo","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Silver
+1900,Netherlands,"Paulus Jan "Paul"" Lotsij"","Rowing Men's Coxed Fours",Rowing,Silver
+1900,Netherlands,"Gerhard Oswald "Geert"" Lotsij"","Rowing Men's Coxed Fours",Rowing,Silver
+1900,France,"Lon Ernest Moreaux","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Silver
+1900,France,"Flix mile Marcotte","Sailing Mixed 0.5-1 Ton",Sailing,Silver
+1900,France,"Mathias Joseph Ferdinand Jules Henri Mialaret","Sailing Mixed 2-3 Ton",Sailing,Silver
+1900,Norway,"Ole stmo","Shooting Men's Free Rifle, Standing, 300 metres",Shooting,Silver
+1900,USA,"Thomas Truxtun Hare","Athletics Men's Hammer Throw",Athletics,Silver
+1900,USA,"William Joseph "Bill"" Holland"","Athletics Men's 400 metres",Athletics,Silver
+1900,Belgium,"Oscar Grgoire, Jr.","Water Polo Men's Water Polo","Water Polo",Silver
+1900,Norway,"Olaf Emil Frydenlund","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Silver
+1900,UK,"Frederick Charles Maitland "Freddie"" Freake"","Polo Men's Polo",Polo,Silver
+1900,France,"Victor Auguste Godinet","Sailing Mixed 2-3 Ton",Sailing,Silver
+1900,UK,"Lloyd Augustin Biden Hildebrand","Cycling Men's 25 kilometres",Cycling,Silver
+1900,France,"Ren Paul Virgile Gaillard","Football Men's Football",Football,Silver
+1900,France,"Victor Fernand Hochepied","Swimming Men's 200 metres Team Swimming",Swimming,Silver
+1900,France,"Maurice Eugne Fraysse","Football Men's Football",Football,Silver
+1900,France,"Maurice Louis Hochepied","Swimming Men's 200 metres Team Swimming",Swimming,Silver
+1900,Cuba,"Ramn Fonst Segundo","Fencing Men's epee, Masters and Amateurs, Individual",Fencing,Silver
+1900,Colombia,"Francis Henriquez de Zubira","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Silver
+1900,Netherlands,"Christoffel "Chris"" Hooijkaas"","Sailing Mixed 3-10 Ton",Sailing,Silver
+1900,France,"Victor Auguste Godinet","Sailing Mixed 2-3 Ton",Sailing,Silver
+1900,Norway,"Helmer Hermansen","Shooting Men's Free Rifle, Three Positions, 300 metres, Team",Shooting,Silver
+1900,France,"Robert Gufflet","Sailing Mixed 3-10 Ton",Sailing,Silver
+1900,Netherlands,"Coenraad Christiaan Hiebendaal","Rowing Men's Coxed Fours",Rowing,Silver
+1900,France,"Henri Hyacinthe Helle","Archery Men's Au Chapelet, 50 metres",Archery,Silver
+1900,Belgium,"Maurice Constant Maria Hemelsoet","Rowing Men's Coxed Eights",Rowing,Silver
+1900,France,"Henri Napolon Marie Maurice Gufflet","Sailing Mixed 3-10 Ton",Sailing,Silver
+1900,France,"Charles Marius Duma Adolphe Gondouin","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Silver
+1900,France,"Lucien Paul Nol Huteau","Football Men's Football",Football,Silver
+1900,UK,"Patrick Joseph "Pat"" Leahy"","Athletics Men's High Jump",Athletics,Silver
+1900,UK,"Timothe Jordan","Cricket Men's Cricket",Cricket,Silver
+1900,Germany,"William Arnold Landvoigt","Rugby Men's Rugby",Rugby,Silver
+1900,France,"Gabriel Charles Jean Le Bret","Sailing Mixed 0.5-1 Ton",Sailing,Silver
+1900,France,"Simon Alphonse Kirchhoffer","Fencing Men's Foil, Masters, Individual",Fencing,Silver
+1900,France,"Georges douard Johin","Croquet Mixed Singles, One Ball",Croquet,Silver
+1900,Czechoslovakia,"Frantiek Janda-Suk","Athletics Men's Discus Throw",Athletics,Silver
+1900,France,"Maurice Marie Lecoq","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Silver
+1900,Germany,"Hans Latscha","Rugby Men's Rugby",Rugby,Silver
+1900,Switzerland,"Emil Kellenberger","Shooting Men's Free Rifle, Kneeling, 300 metres",Shooting,Silver
+1900,Bohemia,"Frantiek Janda-Suk","Athletics Men's Discus Throw",Athletics,Silver
+1900,Austria,"Otto Wahle","Swimming Men's 1,000 metres Freestyle",Swimming,Silver
+1900,France,"Henri Alexis Tauzin","Athletics Men's 400 metres Hurdles",Athletics,Silver
+1900,Netherlands,"Henricus Petrus Augustinus Johannes "Henri"" Smulders"","Sailing Mixed 3-10 Ton",Sailing,Silver
+1900,Hungary,"Zoltn Imre dn von Halmay","Swimming Men's 4,000 metres Freestyle",Swimming,Silver
+1900,France,"Victor Thibault","Archery Men's Au Cordon Dore, 33 metres",Archery,Silver
+1900,Hungary,"Zoltn Imre dn von Halmay","Swimming Men's 200 metres Freestyle",Swimming,Silver
+1900,Belgium,"Marcel Lucien Charles Van Crombrugge","Rowing Men's Coxed Eights",Rowing,Silver
+1900,France,"Andr Jules Henri Six","Swimming Men's Underwater Swimming",Swimming,Silver
+1900,UK,"Henry John Terry, Jr.","Cricket Men's Cricket",Cricket,Silver
+1900,Netherlands,"Arie van der Velden","Sailing Mixed 3-10 Ton",Sailing,Silver
+1900,France,"Henri Lon Victor Susse","Sailing Mixed 2-3 Ton",Sailing,Silver
+1900,France,"Henri Lon Victor Susse","Sailing Mixed 2-3 Ton",Sailing,Silver
+1900,Belgium,"Gerard Theodor Hubert Van Innis","Archery Men's Championnat Du Monde",Archery,Silver
+1900,France,"Philip Humphreys Tomalin","Cricket Men's Cricket",Cricket,Silver
+1900,Belgium,"Gerard Theodor Hubert Van Innis","Archery Men's Au Cordon Dore, 50 metres",Archery,Silver
+1900,France,"Victor Thibault","Archery Men's Au Chapelet, 33 metres",Archery,Silver
+1900,France,"Ovide Daniel Louis Henri Soubeyran","Rowing Men's Coxed Fours",Rowing,Silver
+1900,France,"Henri Jules Valton","Sailing Mixed 0.5-1 Ton",Sailing,Silver
+1900,France,"mile Robert Wegelin","Rowing Men's Coxed Fours",Rowing,Silver
+1900,USA,"Walter Beardsley Tewksbury","Athletics Men's 60 metres",Athletics,Silver
+1900,Belgium,"Maurice Justin Verdonck","Rowing Men's Coxed Eights",Rowing,Silver
+1900,Belgium,"Victor Jean Marie Sonnemans","Water Polo Men's Water Polo","Water Polo",Silver
+1900,Italy,"Giovanni Giorgio "Giangiorgio"" Trissino"","Equestrianism Mixed Long Jump",Equestrianism,Silver
+1900,Austria,"Otto Wahle","Swimming Men's 200 metres Obstacle Course",Swimming,Silver
+1900,UK,"Joseph Godfrey Wallis","Rugby Men's Rugby",Rugby,Silver
+1900,USA,"Walter Beardsley Tewksbury","Athletics Men's 100 metres",Athletics,Silver
+1900,France,"Jules Louis Verbecke (Gaillard-)","Swimming Men's 200 metres Team Swimming",Swimming,Silver
+1900,France,"Maxime Ren Waleff","Rowing Men's Coxed Pairs",Rowing,Silver
+1900,France,"Jules Cyrus Angelle Trinit","Shooting Men's Free Pistol, 50 metres, Team",Shooting,Silver
+1900,France,"Maurice Marie Joseph Vignerot","Croquet Mixed Singles, Two Balls",Croquet,Silver
+1900,Netherlands,"Johannes Hester Lambertus Terwogt","Rowing Men's Coxed Fours",Rowing,Silver
+1900,France,"Franois Antoine Vilamitjana (Caubet-)","Sailing Mixed 1-2 Ton",Sailing,Silver
+1904,USA,"Alphonzo Edward Bell, Sr.","Tennis Men's Singles",Tennis,Bronze
+1904,USA,"Edwin "Teddy"" Billington"","Cycling Men's 1/4 mile",Cycling,Bronze
+1904,USA,"Emil William Breitkreutz","Athletics Men's 800 metres",Athletics,Bronze
+1904,USA,"Arthur Fleming Andrews","Cycling Men's 5 mile",Cycling,Bronze
+1904,USA,"Edwin "Teddy"" Billington"","Cycling Men's 1 mile",Cycling,Bronze
+1904,USA,"Edwin "Teddy"" Billington"","Cycling Men's 1/3 mile",Cycling,Bronze
+1904,USA,"Lesley Ashburner","Athletics Men's 110 metres Hurdles",Athletics,Bronze
+1904,USA,"John Arthur Biller","Athletics Men's Standing Long Jump",Athletics,Bronze
+1904,Germany,"Frank X. Kugler","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Bronze
+1904,Germany,"Frank X. Kugler","Weightlifting Men's Unlimited, Two Hands",Weightlifting,Bronze
+1904,USA,"Allan Edward Lard","Golf Men's Team",Golf,Bronze
+1904,USA,"Edgar Welch Leonard","Tennis Men's Singles",Tennis,Bronze
+1904,USA,"Joseph Patrick "Joe"" Lydon"","Boxing Men's Welterweight",Boxing,Bronze
+1904,Hungary,"Gza Kiss (Drippei-, -Klein)","Swimming Men's 880 yard Freestyle",Swimming,Bronze
+1904,USA,"John Scott Leary","Swimming Men's 100 yard Freestyle",Swimming,Bronze
+1904,Germany,"Frank X. Kugler","Weightlifting Men's All-Around Dumbbell Contest",Weightlifting,Bronze
+1904,USA,"Joseph Walker Wear","Tennis Men's Doubles",Tennis,Bronze
+1904,USA,"William Henry "Will"" Thompson"","Archery Men's Double York Round",Archery,Bronze
+1904,USA,"Albertson Van Zo Post","Fencing Men's epee, Individual",Fencing,Bronze
+1904,USA,"Albertson Van Zo Post","Fencing Men's Sabre, Individual",Fencing,Bronze
+1904,Switzerland,"Gotthardt "Gustav"" Tiefenthaler"","Wrestling Men's Light-Flyweight, Freestyle",Wrestling,Bronze
+1904,USA,"William Henry "Will"" Thompson"","Archery Men's Double American Round",Archery,Bronze
+1904,USA,"Manfred Kurt Washington Toeppen","Water Polo Men's Water Polo","Water Polo",Bronze
+1904,Germany,"Paul Ludwig Weinstein","Athletics Men's High Jump",Athletics,Bronze
+1904,USA,"Charles Henry Robert Thias","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Bronze
+1904,USA,"August "Gus"" Voerg"","Rowing Men's Coxless Fours",Rowing,Bronze
+1904,USA,"Emil Alwell Voigt","Gymnastics Men's Rings",Gymnastics,Bronze
+1904,USA,"Emil Alwell Voigt","Gymnastics Men's Rope Climbing",Gymnastics,Bronze
+1904,USA,"Harold "Harry"" Weber"","Golf Men's Team",Golf,Bronze
+1904,USA,"Constance Sutton Titus","Rowing Men's Single Sculls",Rowing,Bronze
+1904,USA,"Jerry Elmer Winholtz","Wrestling Men's Welterweight, Freestyle",Wrestling,Bronze
+1904,Austria,"Otto Wahle","Swimming Men's 440 yard Freestyle",Swimming,Bronze
+1904,USA,"Charles Tatham","Fencing Men's Foil, Individual",Fencing,Bronze
+1904,USA,"Louis Bernard Strebler","Wrestling Men's Bantamweight, Freestyle",Wrestling,Bronze
+1904,USA,"Harry Francis Tate","Football Men's Football",Football,Bronze
+1904,USA,"Frederick Charles "Fred"" Warmbold"","Wrestling Men's Heavyweight, Freestyle",Wrestling,Bronze
+1904,USA,"Louis Guy "Lou"" Wilkins"","Athletics Men's Pole Vault",Athletics,Bronze
+1904,USA,"Ralph Charles Wilson","Gymnastics Men's Club Swinging",Gymnastics,Bronze
+1904,USA,"Arthur Yancey Wear","Tennis Men's Doubles",Tennis,Bronze
+1904,USA,"Peter Johnson Sturholdt","Boxing Men's Lightweight",Boxing,Bronze
+1904,USA,"George Ellsworth Wiley","Cycling Men's 25 mile",Cycling,Bronze
+1904,USA,"Allen Tarwater West","Tennis Men's Doubles",Tennis,Bronze
+1904,USA,"Marcus Latimer Hurley","Cycling Men's 2 mile",Cycling,Bronze
+1904,USA,"Arthur Duncan "Art"" Hussey"","Golf Men's Team",Golf,Bronze
+1904,USA,"Charles Haberkorn","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Bronze
+1904,USA,"Louis "Lou"" Heim"","Rowing Men's Coxless Fours",Rowing,Bronze
+1904,USA,"Henry Wood Jameson","Football Men's Football",Football,Bronze
+1904,USA,"John W. Freitag","Rowing Men's Coxless Fours",Rowing,Bronze
+1904,USA,"William Peter "Bill"" Hogenson"","Athletics Men's 100 metres",Athletics,Bronze
+1904,USA,"William F. Grebe","Fencing Men's Single Sticks, Individual",Fencing,Bronze
+1904,USA,"Herman Charles Groman","Athletics Men's 400 metres",Athletics,Bronze
+1904,USA,"Thomas Truxtun Hare","Athletics Men's All-Around Championship",Athletics,Bronze
+1904,USA,"Clarence Oliver Gamble","Tennis Men's Doubles",Tennis,Bronze
+1904,USA,"Lacey Earnest Hearn","Athletics Men's 1,500 metres",Athletics,Bronze
+1904,USA,"Henry Jamison "Jam"" Handy"","Swimming Men's 440 Yard Breaststroke",Swimming,Bronze
+1904,USA,"Augustus Michael Gus Goessling","Water Polo Men's Water Polo","Water Polo",Bronze
+1904,Australia,"Francis "Frank"" Gailey"","Swimming Men's One Mile Freestyle",Swimming,Bronze
+1904,USA,"William Peter "Bill"" Hogenson"","Athletics Men's 200 metres",Athletics,Bronze
+1904,USA,"Claude Stanley Jameson","Football Men's Football",Football,Bronze
+1904,USA,"John Louis Joachim","Rowing Men's Coxless Pairs",Rowing,Bronze
+1904,USA,"Oscar Charles Friede","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Bronze
+1904,USA,"Leo Joseph "Budd"" Goodwin"","Swimming Men's Plunge For Distance",Swimming,Bronze
+1904,Greece,"Nikolaos P. Georgantas","Athletics Men's Discus Throw",Athletics,Bronze
+1904,USA,"Frederick Garfield "Fred"" Gilmore"","Boxing Men's Featherweight",Boxing,Bronze
+1904,USA,"Orus W. Jones","Golf Men's Team",Golf,Bronze
+1904,USA,"Cormic Francis Cosgrove","Football Men's Football",Football,Bronze
+1904,USA,"Gwynne Evans","Water Polo Men's Water Polo","Water Polo",Bronze
+1904,USA,"George Philip "Phil"" Bryant"","Archery Men's Team Round",Archery,Bronze
+1904,USA,"Wallace Bryant","Archery Men's Team Round",Archery,Bronze
+1904,USA,"Charles Brown","Roque Men's Singles",Roque,Bronze
+1904,USA,"Frank Dummerth","Rowing Men's Coxless Fours",Rowing,Bronze
+1904,USA,"John Alexander Duha","Gymnastics Men's Parallel Bars",Gymnastics,Bronze
+1904,USA,"George Edwin Cooke","Football Men's Football",Football,Bronze
+1904,USA,"Thomas Joseph "Tom"" Cooke"","Football Men's Football",Football,Bronze
+1904,USA,"John Alexander Duha","Gymnastics Men's Team All-Around",Gymnastics,Bronze
+1904,USA,"Gwynne Evans","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Bronze
+1904,USA,"Charles Ellis Clapper","Wrestling Men's Featherweight, Freestyle",Wrestling,Bronze
+1904,USA,"Cyrus Edwin Dallin","Archery Men's Team Round",Archery,Bronze
+1904,USA,"Jesse Landis "Lee"" Carleton"","Golf Men's Team",Golf,Bronze
+1904,USA,"Martin Thomas Dooling","Football Men's Football",Football,Bronze
+1904,USA,"Edward B. Dierkes","Football Men's Football",Football,Bronze
+1904,USA,"Charles Meldrum "Charlie"" Daniels"","Swimming Men's 50 yard Freestyle",Swimming,Bronze
+1904,USA,"Burton Cecil Downing","Cycling Men's 1/2 mile",Cycling,Bronze
+1904,USA,"Douglass Pope "Doug"" Cadwallader"","Golf Men's Team",Golf,Bronze
+1904,USA,"Harold William "Harry"" Fraser"","Golf Men's Team",Golf,Bronze
+1904,USA,"George Louis Eyser","Gymnastics Men's Horizontal Bar",Gymnastics,Bronze
+1904,USA,"John Joseph "Joe"" Buerger"","Rowing Men's Coxless Pairs",Rowing,Bronze
+1904,USA,"Francis Louis "Frank"" Schreiner"","Water Polo Men's Water Polo","Water Polo",Bronze
+1904,USA,"Marquard J. Schwarz","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Bronze
+1904,USA,"Joseph Francis Stadler","Athletics Men's Standing Triple Jump",Athletics,Bronze
+1904,USA,"Henry Barber Richardson","Archery Men's Team Round",Archery,Bronze
+1904,USA,"Lida Peyton "Eliza"" Pollock (McMillen-)"","Archery Women's Double Columbia Round",Archery,Bronze
+1904,USA,"Lida Peyton "Eliza"" Pollock (McMillen-)"","Archery Women's Double National Round",Archery,Bronze
+1904,Switzerland,"Adolf Spinnler","Gymnastics Men's Individual All-Around",Gymnastics,Bronze
+1904,USA,"John B. Rahm","Golf Men's Team",Golf,Bronze
+1904,USA,"Amedee Valle Reyburn, Jr.","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Bronze
+1904,USA,"Philip Nat Schuster","Gymnastics Men's Team All-Around",Gymnastics,Bronze
+1904,USA,"Robert Sedgewick Stangland","Athletics Men's Triple Jump",Athletics,Bronze
+1904,USA,"Lawson Robertson","Athletics Men's Standing High Jump",Athletics,Bronze
+1904,USA,"Edward Victor Siegler","Gymnastics Men's Team All-Around",Gymnastics,Bronze
+1904,USA,"Robert Sedgewick Stangland","Athletics Men's Long Jump",Athletics,Bronze
+1904,Germany,"Emil A. Rausch","Swimming Men's 220 yard Freestyle",Swimming,Bronze
+1904,USA,"Amedee Valle Reyburn, Jr.","Water Polo Men's Water Polo","Water Polo",Bronze
+1904,USA,"Ralph Waldo Rose","Athletics Men's Hammer Throw",Athletics,Bronze
+1904,USA,"John Joseph "Joe"" Ravannack"","Rowing Men's Double Sculls",Rowing,Bronze
+1904,USA,"Francis Clement "Frank"" Newton"","Golf Men's Individual",Golf,Bronze
+1904,USA,"William Robert "Bill"" Orthwein"","Water Polo Men's Water Polo","Water Polo",Bronze
+1904,USA,"William Robert "Bill"" Orthwein"","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Bronze
+1904,USA,"William G. Merz","Gymnastics Men's Individual All-Around, Field Sports",Gymnastics,Bronze
+1904,USA,"William Mayes "Bill"" Michaels"","Boxing Men's Heavyweight",Boxing,Bronze
+1904,USA,"George Charles Oliver","Golf Men's Team",Golf,Bronze
+1904,USA,"Burt Plumb McKinnie","Golf Men's Individual",Golf,Bronze
+1904,USA,"Edward John Meyers","Water Polo Men's Water Polo","Water Polo",Bronze
+1904,USA,"Robert Emil Maysack","Gymnastics Men's Team All-Around",Gymnastics,Bronze
+1904,USA,"George Coleman Poage","Athletics Men's 200 metres Hurdles",Athletics,Bronze
+1904,USA,"Arthur Lewis Newton","Athletics Men's 2,590 metres Steeplechase",Athletics,Bronze
+1904,USA,"George Coleman Poage","Athletics Men's 400 metres Hurdles",Athletics,Bronze
+1904,USA,"Arthur Lewis Newton","Athletics Men's Marathon",Athletics,Bronze
+1904,USA,"Fay R. Moulton","Athletics Men's 60 metres",Athletics,Bronze
+1904,USA,"James Sarsfield "Jim"" Mitchel"","Athletics Men's 56-pound Weight Throw",Athletics,Bronze
+1904,USA,"Leo Anthony O'Connell","Football Men's Football",Football,Bronze
+1904,USA,"William G. Merz","Gymnastics Men's Side Horse",Gymnastics,Bronze
+1904,USA,"William G. Merz","Gymnastics Men's Individual All-Around, 4 Events",Gymnastics,Bronze
+1904,USA,"William G. Merz","Gymnastics Men's Horse Vault",Gymnastics,Bronze
+1904,Germany,"Georg Zacharias","Swimming Men's 100 Yard Backstroke",Swimming,Bronze
+1904,USA,"Albert Conrad "Al"" Zirkel"","Wrestling Men's Lightweight, Freestyle",Wrestling,Bronze
+1904,USA,"Beals Coleman Wright","Tennis Men's Singles",Tennis,Gold
+1904,USA,"William Michael "Bill"" Varley"","Rowing Men's Double Sculls",Rowing,Gold
+1904,USA,"Albert "Al"" Young (Jung-)"","Boxing Men's Welterweight",Boxing,Gold
+1904,Hungary,"Zoltn Imre dn von Halmay","Swimming Men's 50 yard Freestyle",Swimming,Gold
+1904,Hungary,"Zoltn Imre dn von Halmay","Swimming Men's 100 yard Freestyle",Swimming,Gold
+1904,USA,"Emily Woodruff (Smiley-)","Archery Women's Team Round",Archery,Gold
+1904,Germany,"Georg Zacharias","Swimming Men's 440 Yard Breaststroke",Swimming,Gold
+1904,USA,"Albertson Van Zo Post","Fencing Men's Foil, Team",Fencing,Gold
+1904,USA,"Albertson Van Zo Post","Fencing Men's Single Sticks, Individual",Fencing,Gold
+1904,USA,"Warren Kenneth Wood","Golf Men's Team",Golf,Gold
+1904,USA,"Robert W. Williams, Jr.","Archery Men's Team Round",Archery,Gold
+1904,USA,"Beals Coleman Wright","Tennis Men's Doubles",Tennis,Gold
+1904,Canada,"Thomas Sylvester "Tom"" Taylor"","Football Men's Football",Football,Gold
+1904,USA,"Arthur Martin Stockhoff","Rowing Men's Coxless Fours",Rowing,Gold
+1904,USA,"George Bernard Underwood","Athletics Men's 4 mile, Team",Athletics,Gold
+1904,USA,"Charles Wilhelm Daniel Schlee","Cycling Men's 5 mile",Cycling,Gold
+1904,USA,"James J. Steen","Water Polo Men's Water Polo","Water Polo",Gold
+1904,Canada,"William Twaits","Football Men's Football",Football,Gold
+1904,Canada,"Frederick William "Fred"" Steep"","Football Men's Football",Football,Gold
+1904,USA,"Henry John "Harry"" Spanjer"","Boxing Men's Lightweight",Boxing,Gold
+1904,USA,"Frank Reamer Schell","Rowing Men's Coxed Eights",Rowing,Gold
+1904,Switzerland,"Adolf Spinnler","Gymnastics Men's Individual All-Around, Apparatus Work",Gymnastics,Gold
+1904,USA,"Howard Van Nostrand Valentine","Athletics Men's 4 mile, Team",Athletics,Gold
+1904,USA,"William Henry "Will"" Thompson"","Archery Men's Team Round",Archery,Gold
+1904,USA,"George Herbert Sheldon","Diving Men's Springboard",Diving,Gold
+1904,USA,"Clement Eyer Smoot","Golf Men's Team",Golf,Gold
+1904,USA,"George W. Van Cleaf","Water Polo Men's Water Polo","Water Polo",Gold
+1904,USA,"Daniel Edward "Ned"" Sawyer"","Golf Men's Team",Golf,Gold
+1904,USA,"Frederick William "Fred"" Schule"","Athletics Men's 110 metres Hurdles",Athletics,Gold
+1904,USA,"Martin Joseph Sheridan","Athletics Men's Discus Throw",Athletics,Gold
+1904,USA,"Galen Carter "G. C."" Spencer"","Archery Men's Team Round",Archery,Gold
+1904,USA,"Isidor Gadar "Jack"" Niflot"","Wrestling Men's Bantamweight, Freestyle",Wrestling,Gold
+1904,USA,"Mason Elliott Phelps","Golf Men's Team",Golf,Gold
+1904,USA,"Arthur Lewis Newton","Athletics Men's 4 mile, Team",Athletics,Gold
+1904,USA,"Lida Peyton "Eliza"" Pollock (McMillen-)"","Archery Women's Team Round",Archery,Gold
+1904,USA,"Meyer Prinstein","Athletics Men's Triple Jump",Athletics,Gold
+1904,USA,"Ernst Heinrich Dietrich Reckeweg","Gymnastics Men's Team All-Around",Gymnastics,Gold
+1904,USA,"Oscar Paul Osthoff","Weightlifting Men's All-Around Dumbbell Contest",Weightlifting,Gold
+1904,Germany,"Emil A. Rausch","Swimming Men's 880 yard Freestyle",Swimming,Gold
+1904,Germany,"Emil A. Rausch","Swimming Men's One Mile Freestyle",Swimming,Gold
+1904,USA,"Paul Henry Pilgrim","Athletics Men's 4 mile, Team",Athletics,Gold
+1904,USA,"Meyer Prinstein","Athletics Men's Long Jump",Athletics,Gold
+1904,Canada,"Lawrence Henry Pentland","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,USA,"Otto Frederick Roehm","Wrestling Men's Lightweight, Freestyle",Wrestling,Gold
+1904,USA,"Albert F. "Al"" Nasse"","Rowing Men's Coxless Fours",Rowing,Gold
+1904,USA,"Ralph Waldo Rose","Athletics Men's Shot Put",Athletics,Gold
+1904,USA,"Benjamin Joseph "Ben"" Bradshaw"","Wrestling Men's Featherweight, Freestyle",Wrestling,Gold
+1904,USA,"George Philip "Phil"" Bryant"","Archery Men's Double American Round",Archery,Gold
+1904,Canada,"Joseph lie Blanchard","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,USA,"Samuel "Sam"" Berger"","Boxing Men's Heavyweight",Boxing,Gold
+1904,Germany,"Walter Brack","Swimming Men's 100 Yard Backstroke",Swimming,Gold
+1904,Canada,"George Henry Bretz (-Brett)","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,USA,"George Philip "Phil"" Bryant"","Archery Men's Double York Round",Archery,Gold
+1904,USA,"Louis Grenville "Lou"" Abell"","Rowing Men's Coxed Eights",Rowing,Gold
+1904,Canada,"Otto Lorne Christman","Football Men's Football",Football,Gold
+1904,Canada,"William Thomas Edmund "Billy"" Brennagh"","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,Canada,"George James Cattanach","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,Canada,"William Lawrie "Billy"" Burns"","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,USA,"Charles Ewing Armstrong","Rowing Men's Coxed Eights",Rowing,Gold
+1904,Canada,"George Cloutier","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,USA,"Oliver Leonard Kirk","Boxing Men's Bantamweight",Boxing,Gold
+1904,Canada,"Benjamin Jamieson","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,USA,"Charles Jacobus","Roque Men's Singles",Roque,Gold
+1904,USA,"Philip (Philipp-) Kassel","Gymnastics Men's Team All-Around",Gymnastics,Gold
+1904,USA,"Max Hess","Gymnastics Men's Team All-Around",Gymnastics,Gold
+1904,UK,"Thomas Francis "Tom"" Kiely"","Athletics Men's All-Around Championship",Athletics,Gold
+1904,USA,"Louis de Breda "Lou"" Handley"","Water Polo Men's Water Polo","Water Polo",Gold
+1904,USA,"Thomas John "Tom"" Hicks"","Athletics Men's Marathon",Athletics,Gold
+1904,USA,"Matilda "Lida"" Howell (Scott-)"","Archery Women's Team Round",Archery,Gold
+1904,USA,"Louis de Breda "Lou"" Handley"","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Gold
+1904,Canada,"Albert Percy "Red"" Henderson"","Football Men's Football",Football,Gold
+1904,USA,"Matilda "Lida"" Howell (Scott-)"","Archery Women's Double National Round",Archery,Gold
+1904,Canada,"Albert Johnston","Football Men's Football",Football,Gold
+1904,USA,"Charles Archibald "Archie"" Hahn"","Athletics Men's 60 metres",Athletics,Gold
+1904,USA,"Harry Livingston Hillman, Jr.","Athletics Men's 400 metres Hurdles",Athletics,Gold
+1904,USA,"Harry Livingston Hillman, Jr.","Athletics Men's 200 metres Hurdles",Athletics,Gold
+1904,USA,"Charles Archibald "Archie"" Hahn"","Athletics Men's 100 metres",Athletics,Gold
+1904,USA,"Harry Livingston Hillman, Jr.","Athletics Men's 400 metres",Athletics,Gold
+1904,USA,"Charles Archibald "Archie"" Hahn"","Athletics Men's 200 metres",Athletics,Gold
+1904,USA,"Marcus Latimer Hurley","Cycling Men's 1 mile",Cycling,Gold
+1904,USA,"Anton Heida","Gymnastics Men's Individual All-Around, 4 Events",Gymnastics,Gold
+1904,USA,"Marcus Latimer Hurley","Cycling Men's 1/2 mile",Cycling,Gold
+1904,USA,"Anton Heida","Gymnastics Men's Team All-Around",Gymnastics,Gold
+1904,USA,"Anton Heida","Gymnastics Men's Horse Vault",Gymnastics,Gold
+1904,USA,"Edward August "Ed"" Hennig"","Gymnastics Men's Horizontal Bar",Gymnastics,Gold
+1904,USA,"Anton Heida","Gymnastics Men's Horizontal Bar",Gymnastics,Gold
+1904,USA,"Edward August "Ed"" Hennig"","Gymnastics Men's Club Swinging",Gymnastics,Gold
+1904,USA,"Anton Heida","Gymnastics Men's Side Horse",Gymnastics,Gold
+1904,USA,"Marcus Latimer Hurley","Cycling Men's 1/3 mile",Cycling,Gold
+1904,USA,"Marcus Latimer Hurley","Cycling Men's 1/4 mile",Cycling,Gold
+1904,USA,"Matilda "Lida"" Howell (Scott-)"","Archery Women's Double Columbia Round",Archery,Gold
+1904,Norway,"Bernhoff (Bernhof-) Otelius Hansen","Wrestling Men's Heavyweight, Freestyle",Wrestling,Gold
+1904,USA,"Oliver Leonard Kirk","Boxing Men's Featherweight",Boxing,Gold
+1904,Canada,"Alexander Noble "Sandy"" Hall"","Football Men's Football",Football,Gold
+1904,USA,"Robert Edward "Bob"" Hunter"","Golf Men's Team",Golf,Gold
+1904,USA,"Samuel Symington "Sam"" Jones"","Athletics Men's High Jump",Athletics,Gold
+1904,Canada,"Robert George "Bobby"" Lane"","Football Men's Football",Football,Gold
+1904,Austria,"Julius Lenhart","Gymnastics Men's Individual All-Around",Gymnastics,Gold
+1904,Canada,"Albert Ernest Linton","Football Men's Football",Football,Gold
+1904,USA,"George Nicholas Mehnert","Wrestling Men's Flyweight, Freestyle",Wrestling,Gold
+1904,USA,"Edgar Welch Leonard","Tennis Men's Doubles",Tennis,Gold
+1904,USA,"Harry Hunter Lott","Rowing Men's Coxed Eights",Rowing,Gold
+1904,USA,"James Davies "Jim"" Lightbody"","Athletics Men's 1,500 metres",Athletics,Gold
+1904,USA,"James Davies "Jim"" Lightbody"","Athletics Men's 800 metres",Athletics,Gold
+1904,Canada,"Hilliard Lyle","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,USA,"David Curtiss Munson","Athletics Men's 4 mile, Team",Athletics,Gold
+1904,USA,"Louis William Maxson","Archery Men's Team Round",Archery,Gold
+1904,USA,"James Davies "Jim"" Lightbody"","Athletics Men's 2,590 metres Steeplechase",Athletics,Gold
+1904,Canada,"George Seymour Lyon","Golf Men's Individual",Golf,Gold
+1904,USA,"Nathaniel Ford Moore, III","Golf Men's Team",Golf,Gold
+1904,Canada,"Stuart Ralston Laidlaw","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,USA,"Conrad Emanuel Magnusson (Magnusen-)","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Gold
+1904,USA,"John Joseph Francis Mulcahy","Rowing Men's Double Sculls",Rowing,Gold
+1904,Austria,"Julius Lenhart","Gymnastics Men's Team All-Around",Gymnastics,Gold
+1904,USA,"George Louis Eyser","Gymnastics Men's Rope Climbing",Gymnastics,Gold
+1904,Cuba,"Ramn Fonst Segundo","Fencing Men's Foil, Team",Fencing,Gold
+1904,Cuba,"Ramn Fonst Segundo","Fencing Men's Foil, Individual",Fencing,Gold
+1904,Canada,"John "Jack"" Flett"","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,USA,"Henry Chandler Egan","Golf Men's Team",Golf,Gold
+1904,USA,"Kenneth Paine "Ken"" Edwards"","Golf Men's Team",Golf,Gold
+1904,Norway,"Karl Fredrik "Charles"" Ericksen"","Wrestling Men's Welterweight, Freestyle",Wrestling,Gold
+1904,USA,"August Casimir "Gus"" Erker"","Rowing Men's Coxless Fours",Rowing,Gold
+1904,USA,"George John Dietz","Rowing Men's Coxless Fours",Rowing,Gold
+1904,USA,"John Onins Exley, Jr.","Rowing Men's Coxed Eights",Rowing,Gold
+1904,USA,"James Showers "Jim"" Flanigan"","Rowing Men's Coxed Eights",Rowing,Gold
+1904,USA,"George Louis Eyser","Gymnastics Men's Horse Vault",Gymnastics,Gold
+1904,USA,"George Louis Eyser","Gymnastics Men's Parallel Bars",Gymnastics,Gold
+1904,USA,"John Joseph Flanagan","Athletics Men's Hammer Throw",Athletics,Gold
+1904,USA,"Charles Meldrum "Charlie"" Daniels"","Swimming Men's 220 yard Freestyle",Swimming,Gold
+1904,USA,"Charles Meldrum "Charlie"" Daniels"","Swimming Men's 440 yard Freestyle",Swimming,Gold
+1904,USA,"Charles Edward Dvorak","Athletics Men's Pole Vault",Athletics,Gold
+1904,USA,"Charles Meldrum "Charlie"" Daniels"","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Gold
+1904,USA,"Burton Cecil Downing","Cycling Men's 2 mile",Cycling,Gold
+1904,Canada,"George Ducker","Football Men's Football",Football,Gold
+1904,USA,"Frank Bartholomew Greer","Rowing Men's Single Sculls",Rowing,Gold
+1904,USA,"John William Grieb","Gymnastics Men's Team All-Around",Gymnastics,Gold
+1904,USA,"Edward McClellan "Ned"" Cummins"","Golf Men's Team",Golf,Gold
+1904,USA,"Robert E. Farnan","Rowing Men's Coxless Pairs",Rowing,Gold
+1904,USA,"Michael Daniel "Mike"" Gleason"","Rowing Men's Coxed Eights",Rowing,Gold
+1904,USA,"Robert Samuel "Bob"" Curry"","Wrestling Men's Light-Flyweight, Freestyle",Wrestling,Gold
+1904,USA,"Herman Theobald Glass","Gymnastics Men's Rings",Gymnastics,Gold
+1904,Canada,"John Alexander "Jack"" Fraser"","Football Men's Football",Football,Gold
+1904,Canada,"John Bell Gourlay","Football Men's Football",Football,Gold
+1904,USA,"Joseph Francis "Joe"" Dempsey"","Rowing Men's Coxed Eights",Rowing,Gold
+1904,Canada,"Joseph-tienne Desmarteau (Birtz-)","Athletics Men's 56-pound Weight Throw",Athletics,Gold
+1904,USA,"Leo Joseph "Budd"" Goodwin"","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Gold
+1904,USA,"Leo Joseph "Budd"" Goodwin"","Water Polo Men's Water Polo","Water Polo",Gold
+1904,Cuba,"Manuel Dionisio Daz Martnez","Fencing Men's Foil, Team",Fencing,Gold
+1904,Canada,"Alexander "Sandy"" Cowan"","Lacrosse Men's Lacrosse",Lacrosse,Gold
+1904,Cuba,"Manuel Dionisio Daz Martnez","Fencing Men's Sabre, Individual",Fencing,Gold
+1904,USA,"William Eugene "Billy"" Dickey"","Swimming Men's Plunge For Distance",Swimming,Gold
+1904,USA,"Raymond Clarence "Ray"" Ewry"","Athletics Men's Standing High Jump",Athletics,Gold
+1904,USA,"Raymond Clarence "Ray"" Ewry"","Athletics Men's Standing Long Jump",Athletics,Gold
+1904,Cuba,"Ramn Fonst Segundo","Fencing Men's epee, Individual",Fencing,Gold
+1904,USA,"Walter Eugene Egan","Golf Men's Team",Golf,Gold
+1904,USA,"Burton Cecil Downing","Cycling Men's 25 mile",Cycling,Gold
+1904,USA,"Raymond Clarence "Ray"" Ewry"","Athletics Men's Standing Triple Jump",Athletics,Gold
+1904,USA,"Max Philip Emmerich","Gymnastics Men's Individual All-Around, Field Sports",Gymnastics,Gold
+1904,USA,"Michael "Mike"" Begley"","Rowing Men's Coxless Fours",Rowing,Silver
+1904,USA,"Charles Albert Bartliff","Football Men's Football",Football,Silver
+1904,USA,"Arthur Fleming Andrews","Cycling Men's 25 mile",Cycling,Silver
+1904,USA,"Rex Ellingwood Beach","Water Polo Men's Water Polo","Water Polo",Silver
+1904,USA,"Gustave George Bauer","Wrestling Men's Flyweight, Freestyle",Wrestling,Silver
+1904,USA,"Charles Aman","Rowing Men's Coxless Fours",Rowing,Silver
+1904,USA,"Edgar Holmes Adams","Swimming Men's Plunge For Distance",Swimming,Silver
+1904,USA,"William "Bill"" Beckman"","Wrestling Men's Welterweight, Freestyle",Wrestling,Silver
+1904,USA,"Charles Sherman Woodruff","Archery Men's Team Round",Archery,Silver
+1904,USA,"George Ellsworth Wiley","Cycling Men's 5 mile",Cycling,Silver
+1904,USA,"Robert W. Williams, Jr.","Archery Men's Double American Round",Archery,Silver
+1904,USA,"Robert W. Williams, Jr.","Archery Men's Double York Round",Archery,Silver
+1904,USA,"William Russell Van Horn","Boxing Men's Lightweight",Boxing,Silver
+1904,USA,"Emil Alwell Voigt","Gymnastics Men's Club Swinging",Gymnastics,Silver
+1904,USA,"Raymond Comstock "Ray"" Thorne"","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Silver
+1904,USA,"Howard Van Nostrand Valentine","Athletics Men's 800 metres",Athletics,Silver
+1904,USA,"John "Jack"" Sullivan"","Lacrosse Men's Lacrosse",Lacrosse,Silver
+1904,Canada,"William Ridout Wadsworth","Rowing Men's Coxed Eights",Rowing,Silver
+1904,USA,"William Franklyn "Bill"" Verner"","Athletics Men's 4 mile, Team",Athletics,Silver
+1904,USA,"William Franklyn "Bill"" Verner"","Athletics Men's 1,500 metres",Athletics,Silver
+1904,USA,"Orin Thomas Upshaw","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Silver
+1904,USA,"Frederick G. "Fred"" Suerig"","Rowing Men's Coxless Fours",Rowing,Silver
+1904,USA,"Frank Laird Waller","Athletics Men's 400 metres",Athletics,Silver
+1904,USA,"Joseph Francis Stadler","Athletics Men's Standing High Jump",Athletics,Silver
+1904,USA,"William Michael "Bill"" Varley"","Rowing Men's Coxless Pairs",Rowing,Silver
+1904,USA,"Frank Laird Waller","Athletics Men's 400 metres Hurdles",Athletics,Silver
+1904,USA,"Smith O. Streeter","Roque Men's Singles",Roque,Silver
+1904,USA,"William Jeremiah "Bill"" Tuttle"","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Silver
+1904,Canada,"George M. Strange","Rowing Men's Coxed Eights",Rowing,Silver
+1904,USA,"Edwin Paul Swatek","Water Polo Men's Water Polo","Water Polo",Silver
+1904,USA,"Charles Tatham","Fencing Men's Foil, Team",Fencing,Silver
+1904,USA,"Albertson Van Zo Post","Fencing Men's Foil, Individual",Fencing,Silver
+1904,USA,"Otto I. Steffen","Gymnastics Men's Team All-Around",Gymnastics,Silver
+1904,USA,"Charles Tatham","Fencing Men's epee, Individual",Fencing,Silver
+1904,USA,"Rudolph Tesiny","Wrestling Men's Lightweight, Freestyle",Wrestling,Silver
+1904,USA,"Stuart Grosvenor "Stu"" Stickney"","Golf Men's Team",Golf,Silver
+1904,USA,"Henry John "Harry"" Spanjer"","Boxing Men's Welterweight",Boxing,Silver
+1904,USA,"Jerome Elwell Steever","Water Polo Men's Water Polo","Water Polo",Silver
+1904,USA,"Albert H. Venn","Lacrosse Men's Lacrosse",Lacrosse,Silver
+1904,USA,"William Jeremiah "Bill"" Tuttle"","Water Polo Men's Water Polo","Water Polo",Silver
+1904,USA,"William Arthur "Art"" Stickney"","Golf Men's Team",Golf,Silver
+1904,USA,"Miles J. Burke","Boxing Men's Flyweight",Boxing,Silver
+1904,USA,"William Wesley Coe, Jr.","Athletics Men's Shot Put",Athletics,Silver
+1904,USA,"Alexander Cudmore","Football Men's Football",Football,Silver
+1904,USA,"John Frederick Bissinger, Jr.","Gymnastics Men's Team All-Around",Gymnastics,Silver
+1904,USA,"Samuel Harding Duvall","Archery Men's Team Round",Archery,Silver
+1904,USA,"Nathaniel John "Nate"" Cartmell"","Athletics Men's 100 metres",Athletics,Silver
+1904,USA,"John Deere Cady","Golf Men's Team",Golf,Silver
+1904,USA,"Nathaniel John "Nate"" Cartmell"","Athletics Men's 200 metres",Athletics,Silver
+1904,USA,"Charles Meldrum "Charlie"" Daniels"","Swimming Men's 100 yard Freestyle",Swimming,Silver
+1904,Canada,"Philip Ewing "Phil"" Boyd"","Rowing Men's Coxed Eights",Rowing,Silver
+1904,UK,"John Joseph Daly","Athletics Men's 2,590 metres Steeplechase",Athletics,Silver
+1904,USA,"Emma C. Cooke","Archery Women's Double Columbia Round",Archery,Silver
+1904,USA,"Alphonzo Edward Bell, Sr.","Tennis Men's Doubles",Tennis,Silver
+1904,USA,"Emil Beyer","Gymnastics Men's Team All-Around",Gymnastics,Silver
+1904,USA,"Oscar Bernard Brockmeyer","Football Men's Football",Football,Silver
+1904,USA,"Warren George Brittingham","Football Men's Football",Football,Silver
+1904,USA,"Burton Cecil Downing","Cycling Men's 1/4 mile",Cycling,Silver
+1904,USA,"Edwin "Teddy"" Billington"","Cycling Men's 1/2 mile",Cycling,Silver
+1904,USA,"John Riegel DeWitt","Athletics Men's Hammer Throw",Athletics,Silver
+1904,USA,"Burton Cecil Downing","Cycling Men's 1 mile",Cycling,Silver
+1904,USA,"Frank Riley Castleman","Athletics Men's 200 metres Hurdles",Athletics,Silver
+1904,USA,"Burton Cecil Downing","Cycling Men's 1/3 mile",Cycling,Silver
+1904,Germany,"Walter Brack","Swimming Men's 440 Yard Breaststroke",Swimming,Silver
+1904,USA,"Emma C. Cooke","Archery Women's Double National Round",Archery,Silver
+1904,USA,"William Thomas Passmore","Lacrosse Men's Lacrosse",Lacrosse,Silver
+1904,USA,"George William Passmore","Lacrosse Men's Lacrosse",Lacrosse,Silver
+1904,Canada,"George Patten "Pat"" Reiffenstein (-Carr)"","Rowing Men's Coxed Eights",Rowing,Silver
+1904,USA,"Harry Potter","Golf Men's Team",Golf,Silver
+1904,USA,"Arthur Henry "Art"" Rosenkampff"","Gymnastics Men's Team All-Around",Gymnastics,Silver
+1904,USA,"William Bernard Seiling","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Silver
+1904,USA,"August Henry "Gus"" Rodenberg"","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Silver
+1904,USA,"Ralph Waldo Rose","Athletics Men's Discus Throw",Athletics,Silver
+1904,USA,"Julian Frank Schmitz","Gymnastics Men's Team All-Around",Gymnastics,Silver
+1904,USA,"LeRoy Perry Samse","Athletics Men's Pole Vault",Athletics,Silver
+1904,USA,"Peter Joseph Ratican","Football Men's Football",Football,Silver
+1904,USA,"Thaddeus Rutter "Thad"" Shideler"","Athletics Men's 110 metres Hurdles",Athletics,Silver
+1904,USA,"Frederick Humphrey "Fred"" Semple"","Golf Men's Team",Golf,Silver
+1904,USA,"James Benner "Jim"" Juvenal"","Rowing Men's Single Sculls",Rowing,Silver
+1904,USA,"Conant Meigs "Con"" King"","Athletics Men's Standing Long Jump",Athletics,Silver
+1904,USA,"Albert Bond "Al"" Lambert"","Golf Men's Team",Golf,Silver
+1904,USA,"Robert LeRoy","Tennis Men's Doubles",Tennis,Silver
+1904,Austria,"Julius Lenhart","Gymnastics Men's Individual All-Around, Apparatus Work",Gymnastics,Silver
+1904,Germany,"Frank X. Kugler","Wrestling Men's Heavyweight, Freestyle",Wrestling,Silver
+1904,USA,"Conant Meigs "Con"" King"","Athletics Men's Standing Triple Jump",Athletics,Silver
+1904,USA,"James Davies "Jim"" Lightbody"","Athletics Men's 4 mile, Team",Athletics,Silver
+1904,USA,"Thomas Thurston "Tom"" January"","Football Men's Football",Football,Silver
+1904,USA,"John Hartnett January","Football Men's Football",Football,Silver
+1904,Hungary,"Gza Kiss (Drippei-, -Klein)","Swimming Men's One Mile Freestyle",Swimming,Silver
+1904,USA,"Charles James Hicks January, Jr.","Football Men's Football",Football,Silver
+1904,USA,"Raymond E. "Ray"" Lawler"","Football Men's Football",Football,Silver
+1904,USA,"Robert LeRoy","Tennis Men's Singles",Tennis,Silver
+1904,USA,"John Scott Leary","Swimming Men's 50 yard Freestyle",Swimming,Silver
+1904,USA,"Oscar Paul Osthoff","Weightlifting Men's Unlimited, Two Hands",Weightlifting,Silver
+1904,Canada,"Thomas Richardson Loudon","Rowing Men's Coxed Eights",Rowing,Silver
+1904,USA,"Theodore Joseph "Ted"" McLear"","Wrestling Men's Featherweight, Freestyle",Wrestling,Silver
+1904,USA,"William Arthur Murphy","Lacrosse Men's Lacrosse",Lacrosse,Silver
+1904,USA,"Francis Clement "Frank"" Newton"","Golf Men's Team",Golf,Silver
+1904,USA,"John Joseph Francis Mulcahy","Rowing Men's Coxless Pairs",Rowing,Silver
+1904,USA,"Joseph James McLoughlin","Rowing Men's Double Sculls",Rowing,Silver
+1904,USA,"Louis John Menges","Football Men's Football",Football,Silver
+1904,Canada,"Donald Ross "Don"" MacKenzie"","Rowing Men's Coxed Eights",Rowing,Silver
+1904,USA,"John Riley Maxwell","Golf Men's Team",Golf,Silver
+1904,USA,"William Scott O'Connor","Fencing Men's Single Sticks, Individual",Fencing,Silver
+1904,USA,"Burt Plumb McKinnie","Golf Men's Team",Golf,Silver
+1904,USA,"William G. Merz","Gymnastics Men's Rings",Gymnastics,Silver
+1904,USA,"Ralph McKittrick","Golf Men's Team",Golf,Silver
+1904,USA,"Joseph Patrick "Joe"" Lydon"","Football Men's Football",Football,Silver
+1904,USA,"George Louis Eyser","Gymnastics Men's Individual All-Around, 4 Events",Gymnastics,Silver
+1904,USA,"David Thurwell Hammond","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Silver
+1904,USA,"Hugo Louis Goetz","Swimming Men's 4 x 50 Yard Freestyle Relay",Swimming,Silver
+1904,USA,"Oscar A. Goerke, Jr.","Cycling Men's 2 mile",Cycling,Silver
+1904,USA,"George Louis Eyser","Gymnastics Men's Side Horse",Gymnastics,Silver
+1904,USA,"Martin Formanack","Rowing Men's Coxless Fours",Rowing,Silver
+1904,USA,"John C. Hein","Wrestling Men's Light-Flyweight, Freestyle",Wrestling,Silver
+1904,USA,"William Peter "Bill"" Hogenson"","Athletics Men's 60 metres",Athletics,Silver
+1904,USA,"Anton Heida","Gymnastics Men's Parallel Bars",Gymnastics,Silver
+1904,USA,"William F. Grebe","Fencing Men's Sabre, Individual",Fencing,Silver
+1904,USA,"Frederick William "Fred"" Engelhardt"","Athletics Men's Triple Jump",Athletics,Silver
+1904,USA,"Lacey Earnest Hearn","Athletics Men's 4 mile, Team",Athletics,Silver
+1904,USA,"Frank Bee Haller","Boxing Men's Featherweight",Boxing,Silver
+1904,USA,"Charles Louis Healy","Water Polo Men's Water Polo","Water Polo",Silver
+1904,USA,"Charles Randolph Hubbard","Archery Men's Team Round",Archery,Silver
+1904,USA,"Henry Chandler Egan","Golf Men's Individual",Golf,Silver
+1904,Australia,"Francis "Frank"" Gailey"","Swimming Men's 220 yard Freestyle",Swimming,Silver
+1904,USA,"John William Grieb","Gymnastics Men's Individual All-Around, Field Sports",Gymnastics,Silver
+1904,Australia,"Francis "Frank"" Gailey"","Swimming Men's 440 yard Freestyle",Swimming,Silver
+1904,USA,"Sidney Herbert Hatch","Athletics Men's 4 mile, Team",Athletics,Silver
+1904,Australia,"Francis "Frank"" Gailey"","Swimming Men's 880 yard Freestyle",Swimming,Silver
+1904,USA,"John Joseph Flanagan","Athletics Men's 56-pound Weight Throw",Athletics,Silver
+1904,USA,"Adam Beattie Gunn","Athletics Men's All-Around Championship",Athletics,Silver
+1904,USA,"Arthur George Fox","Fencing Men's Foil, Team",Fencing,Silver
+1904,USA,"David Thurwell Hammond","Water Polo Men's Water Polo","Water Polo",Silver
+1906,Australia,"Nigel Chase Barker","Athletics Men's 100 metres",Athletics,Bronze
+1906,Italy,"Rodrigo Bertinotti","Gymnastics Men's Team All-Around",Gymnastics,Bronze
+1906,Australia,"Nigel Chase Barker","Athletics Men's 400 metres",Athletics,Bronze
+1906,Denmark,"Robert Sophus Daniel Behrens","Wrestling Men's Middleweight, Greco-Roman",Wrestling,Bronze
+1906,France,"Adolphe Bernard","Rowing Men's Coxed Fours",Rowing,Bronze
+1906,France,"Adolphe Bernard","Rowing Men's Coxed Pairs (1 mile)",Rowing,Bronze
+1906,Bohemia,"Ladislav emla","Tennis Men's Doubles",Tennis,Bronze
+1906,Czechoslovakia,"Ladislav emla","Tennis Men's Doubles",Tennis,Bronze
+1906,Sweden,"Johan Gustaf Anton Gustafsson","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Bronze
+1906,Sweden,"Erik Gustaf Granfelt","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Bronze
+1906,Sweden,"Torsten Oswald Magnus Holmberg","Tug-Of-War Men's Tug-Of-War",Tug-Of-War,Bronze
+1906,USA,"Edward Chester "Ed"" Glover"","Athletics Men's Pole Vault",Athletics,Bronze
+1906,UK,"William Henry","Swimming Men's 4 x 250 metres Freestyle Relay",Swimming,Bronze

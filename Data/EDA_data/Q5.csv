@@ -1,0 +1,424 @@
+sport_name,games_year,participants
+Aeronautics,1996,1
+"Alpine Skiing",1948,1
+"Alpine Skiing",1952,1
+"Alpine Skiing",1972,1
+"Alpine Skiing",1980,1
+"Alpine Skiing",2000,1
+"Alpine Skiing",2002,1
+"Alpine Skiing",2006,1
+"Alpine Skiing",2008,2
+"Alpine Skiing",2016,1
+Alpinism,2010,1
+Archery,1912,1
+Archery,1924,1
+Archery,1928,1
+Archery,1960,1
+Archery,1964,1
+Archery,1968,1
+Archery,1972,1
+Archery,1980,1
+Archery,1988,1
+Archery,1992,1
+Archery,1996,3
+Archery,2000,2
+Archery,2002,1
+Archery,2004,1
+Archery,2008,3
+Archery,2012,2
+Archery,2014,1
+Archery,2016,2
+"Art Competitions",1948,1
+"Art Competitions",1960,1
+"Art Competitions",1972,4
+"Art Competitions",1976,2
+"Art Competitions",1980,2
+"Art Competitions",1992,2
+"Art Competitions",1996,1
+"Art Competitions",1998,1
+"Art Competitions",2000,1
+"Art Competitions",2004,1
+"Art Competitions",2006,1
+"Art Competitions",2008,1
+"Art Competitions",2010,1
+"Art Competitions",2012,3
+"Art Competitions",2016,7
+Athletics,1912,1
+Athletics,1920,1
+Athletics,1924,1
+Athletics,1932,1
+Athletics,1936,2
+Athletics,1948,1
+Athletics,1952,3
+Athletics,1956,1
+Athletics,1960,1
+Athletics,1968,1
+Athletics,1972,2
+Athletics,1976,1
+Athletics,1980,4
+Athletics,1984,5
+Athletics,1988,3
+Athletics,1992,6
+Athletics,1994,1
+Athletics,1996,5
+Athletics,1998,1
+Athletics,2000,8
+Athletics,2002,1
+Athletics,2004,7
+Athletics,2008,11
+Athletics,2012,9
+Athletics,2016,6
+Badminton,1964,1
+Badminton,1972,1
+Badminton,1996,1
+Badminton,2000,1
+Badminton,2012,1
+Baseball,1900,1
+Basketball,1976,1
+Basketball,1992,1
+"Basque Pelota",2016,1
+"Beach Volleyball",1964,1
+"Beach Volleyball",1988,1
+Biathlon,1964,1
+Biathlon,1972,2
+Biathlon,1976,1
+Biathlon,1988,1
+Biathlon,1992,2
+Biathlon,2000,1
+Biathlon,2008,4
+Biathlon,2012,1
+Bobsleigh,1936,1
+Bobsleigh,1984,1
+Bobsleigh,1996,1
+Bobsleigh,2012,1
+Boxing,1952,2
+Boxing,1960,1
+Boxing,1992,1
+Boxing,1996,3
+Boxing,2000,2
+Boxing,2008,1
+Boxing,2012,1
+Boxing,2016,4
+Canoeing,1920,1
+Canoeing,1948,1
+Canoeing,1956,1
+Canoeing,1964,1
+Canoeing,1968,2
+Canoeing,1976,2
+Canoeing,1988,3
+Canoeing,1992,3
+Canoeing,1996,2
+Canoeing,2000,2
+Canoeing,2004,2
+Canoeing,2008,1
+Canoeing,2012,1
+Canoeing,2016,5
+Cricket,2008,1
+Croquet,1998,1
+Croquet,2012,1
+Croquet,2014,1
+"Cross Country Skiing",1900,1
+"Cross Country Skiing",1936,1
+"Cross Country Skiing",1948,2
+"Cross Country Skiing",1952,1
+"Cross Country Skiing",1960,2
+"Cross Country Skiing",1968,1
+"Cross Country Skiing",1984,1
+"Cross Country Skiing",1988,1
+"Cross Country Skiing",1992,4
+"Cross Country Skiing",1994,3
+"Cross Country Skiing",1996,1
+"Cross Country Skiing",2000,1
+"Cross Country Skiing",2008,2
+"Cross Country Skiing",2012,1
+"Cross Country Skiing",2016,1
+Curling,2004,1
+Curling,2008,1
+Cycling,1912,1
+Cycling,1928,1
+Cycling,1952,1
+Cycling,1960,1
+Cycling,1972,2
+Cycling,1976,1
+Cycling,1984,3
+Cycling,1988,5
+Cycling,1992,4
+Cycling,1996,1
+Cycling,2000,1
+Cycling,2004,4
+Cycling,2006,1
+Cycling,2008,9
+Cycling,2010,1
+Cycling,2012,3
+Cycling,2016,5
+Diving,1972,1
+Diving,1980,1
+Diving,1988,2
+Diving,2000,4
+Diving,2008,1
+Diving,2016,1
+Equestrianism,1912,1
+Equestrianism,1928,1
+Equestrianism,1952,1
+Equestrianism,1960,1
+Equestrianism,1964,1
+Equestrianism,1968,1
+Equestrianism,1976,1
+Equestrianism,1996,2
+Equestrianism,2004,4
+Equestrianism,2008,1
+Equestrianism,2012,1
+Equestrianism,2016,3
+Fencing,1912,3
+Fencing,1920,1
+Fencing,1952,1
+Fencing,1956,1
+Fencing,1980,1
+Fencing,1984,1
+Fencing,1992,1
+Fencing,2000,2
+Fencing,2008,1
+Fencing,2012,2
+Fencing,2016,4
+"Figure Skating",1952,1
+"Figure Skating",1976,1
+"Figure Skating",1994,1
+"Figure Skating",2004,1
+"Figure Skating",2008,2
+Football,1920,1
+Football,1996,1
+"Freestyle Skiing",1936,1
+"Freestyle Skiing",1952,1
+"Freestyle Skiing",1976,2
+"Freestyle Skiing",1984,3
+"Freestyle Skiing",1988,2
+"Freestyle Skiing",2000,1
+Golf,2004,1
+Golf,2008,2
+Gymnastics,1912,3
+Gymnastics,1920,1
+Gymnastics,1924,1
+Gymnastics,1948,2
+Gymnastics,1952,2
+Gymnastics,1976,1
+Gymnastics,1980,1
+Gymnastics,1984,1
+Gymnastics,1988,1
+Gymnastics,1992,2
+Gymnastics,1994,1
+Gymnastics,2000,1
+Gymnastics,2004,2
+Gymnastics,2008,4
+Gymnastics,2012,2
+Gymnastics,2014,1
+Gymnastics,2016,1
+Handball,1956,1
+Handball,2004,1
+Hockey,1984,1
+Hockey,1996,1
+"Ice Hockey",1952,1
+"Ice Hockey",2016,1
+"Jeu De Paume",2016,1
+Judo,1928,1
+Judo,1960,2
+Judo,1976,1
+Judo,1980,1
+Judo,1984,1
+Judo,1992,2
+Judo,1996,1
+Judo,2004,2
+Judo,2012,2
+Judo,2016,2
+Lacrosse,2012,1
+Luge,1968,2
+Luge,1994,1
+Luge,2016,1
+"Military Ski Patrol",1976,1
+"Modern Pentathlon",1960,1
+"Modern Pentathlon",1968,1
+"Modern Pentathlon",2004,1
+Motorboating,1980,1
+Motorboating,1988,1
+Motorboating,2012,1
+"Nordic Combined",1900,1
+"Nordic Combined",1988,1
+"Nordic Combined",2000,1
+"Nordic Combined",2016,2
+Polo,2008,1
+Racquets,1932,1
+Racquets,2012,1
+"Rhythmic Gymnastics",2000,1
+"Rhythmic Gymnastics",2016,1
+Roque,2014,1
+Rowing,1924,1
+Rowing,1948,1
+Rowing,1960,1
+Rowing,1972,3
+Rowing,1976,1
+Rowing,1980,1
+Rowing,1984,2
+Rowing,1992,5
+Rowing,1996,2
+Rowing,2000,3
+Rowing,2004,1
+Rowing,2008,1
+Rowing,2012,1
+Rugby,2000,1
+"Rugby Sevens",1948,1
+"Rugby Sevens",1996,1
+Sailing,1920,2
+Sailing,1924,2
+Sailing,1936,2
+Sailing,1964,2
+Sailing,1972,2
+Sailing,1976,1
+Sailing,1980,1
+Sailing,1984,3
+Sailing,1988,7
+Sailing,1992,4
+Sailing,1996,2
+Sailing,1998,1
+Sailing,2000,2
+Sailing,2002,1
+Sailing,2004,1
+Sailing,2008,2
+Sailing,2012,2
+Shooting,1906,1
+Shooting,1928,1
+Shooting,1936,2
+Shooting,1948,1
+Shooting,1952,2
+Shooting,1960,2
+Shooting,1964,3
+Shooting,1968,2
+Shooting,1972,3
+Shooting,1976,4
+Shooting,1980,1
+Shooting,1984,8
+Shooting,1988,5
+Shooting,1992,4
+Shooting,1994,2
+Shooting,1996,3
+Shooting,1998,2
+Shooting,2000,6
+Shooting,2002,2
+Shooting,2004,5
+Shooting,2006,3
+Shooting,2008,8
+Shooting,2010,3
+Shooting,2012,6
+Shooting,2016,4
+"Short Track Speed Skating",1920,1
+"Short Track Speed Skating",1952,2
+"Short Track Speed Skating",1980,1
+"Short Track Speed Skating",2000,2
+"Short Track Speed Skating",2004,1
+"Short Track Speed Skating",2012,1
+Skeleton,1960,2
+"Ski Jumping",1948,1
+"Ski Jumping",1972,1
+"Ski Jumping",2008,1
+"Ski Jumping",2016,1
+Snowboarding,1904,1
+Snowboarding,1924,1
+Snowboarding,1952,1
+Snowboarding,1956,1
+Snowboarding,1968,1
+Snowboarding,1972,1
+Snowboarding,1980,1
+Snowboarding,1992,1
+Snowboarding,1996,1
+Snowboarding,2004,1
+Snowboarding,2012,1
+Snowboarding,2016,1
+Softball,1976,1
+"Speed Skating",1920,1
+"Speed Skating",1936,1
+"Speed Skating",1956,1
+"Speed Skating",1960,1
+"Speed Skating",1964,1
+"Speed Skating",1976,2
+"Speed Skating",1984,3
+"Speed Skating",1988,1
+"Speed Skating",1992,1
+"Speed Skating",2012,1
+Swimming,1912,1
+Swimming,1928,1
+Swimming,1936,1
+Swimming,1948,2
+Swimming,1952,1
+Swimming,1960,2
+Swimming,1964,1
+Swimming,1968,1
+Swimming,1972,1
+Swimming,1976,1
+Swimming,1980,2
+Swimming,1984,1
+Swimming,1988,2
+Swimming,1992,4
+Swimming,1994,2
+Swimming,1996,4
+Swimming,1998,2
+Swimming,2000,5
+Swimming,2002,1
+Swimming,2004,3
+Swimming,2008,2
+Swimming,2010,1
+Swimming,2012,6
+Swimming,2014,1
+Swimming,2016,6
+"Synchronized Swimming",1936,1
+"Synchronized Swimming",1972,1
+"Synchronized Swimming",2004,1
+"Table Tennis",1952,2
+"Table Tennis",1996,1
+"Table Tennis",2000,1
+"Table Tennis",2004,1
+"Table Tennis",2014,1
+Taekwondo,1920,1
+Taekwondo,1972,2
+Taekwondo,2004,1
+Taekwondo,2010,1
+Taekwondo,2012,1
+Taekwondo,2014,1
+Taekwondo,2016,1
+Tennis,1948,1
+Tennis,1968,1
+Tennis,1984,1
+Tennis,1992,2
+Tennis,2008,2
+Tennis,2012,1
+Tennis,2016,1
+Trampolining,1960,1
+Trampolining,2000,1
+Triathlon,2012,1
+Triathlon,2016,1
+Tug-Of-War,1900,1
+Volleyball,1936,1
+Volleyball,1992,1
+"Water Polo",1972,1
+"Water Polo",1984,1
+Weightlifting,1928,1
+Weightlifting,1960,1
+Weightlifting,1976,1
+Weightlifting,1980,2
+Weightlifting,1988,3
+Weightlifting,1996,2
+Weightlifting,2000,1
+Weightlifting,2004,5
+Weightlifting,2008,3
+Weightlifting,2012,1
+Weightlifting,2016,1
+Wrestling,1952,1
+Wrestling,1960,2
+Wrestling,1964,3
+Wrestling,1980,1
+Wrestling,1984,1
+Wrestling,1988,2
+Wrestling,1992,3
+Wrestling,1996,3
+Wrestling,2000,6
+Wrestling,2002,1
+Wrestling,2004,1
+Wrestling,2008,3
+Wrestling,2016,3

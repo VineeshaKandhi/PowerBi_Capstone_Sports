@@ -1,0 +1,98 @@
+sport_name,gender,total_events,male_events,female_events
+Aeronautics,M,1,1,0
+"Alpine Skiing",F,2,0,2
+"Alpine Skiing",M,8,8,0
+Alpinism,M,1,1,0
+Archery,F,5,0,5
+Archery,M,20,20,0
+"Art Competitions",F,6,0,6
+"Art Competitions",M,23,23,0
+Athletics,F,11,0,11
+Athletics,M,72,72,0
+Badminton,F,1,0,1
+Badminton,M,4,4,0
+Baseball,F,1,0,1
+Basketball,M,2,2,0
+"Basque Pelota",M,1,1,0
+"Beach Volleyball",M,2,2,0
+Biathlon,F,2,0,2
+Biathlon,M,11,11,0
+Bobsleigh,F,2,0,2
+Bobsleigh,M,2,2,0
+Boxing,F,1,0,1
+Boxing,M,14,14,0
+Canoeing,F,4,0,4
+Canoeing,M,23,23,0
+Cricket,F,1,0,1
+Croquet,F,3,0,3
+"Cross Country Skiing",F,1,0,1
+"Cross Country Skiing",M,22,22,0
+Curling,M,2,2,0
+Cycling,F,14,0,14
+Cycling,M,30,30,0
+Diving,M,10,10,0
+Equestrianism,M,18,18,0
+Fencing,F,3,0,3
+Fencing,M,15,15,0
+"Figure Skating",F,3,0,3
+"Figure Skating",M,3,3,0
+Football,F,1,0,1
+Football,M,1,1,0
+"Freestyle Skiing",F,2,0,2
+"Freestyle Skiing",M,8,8,0
+Golf,M,3,3,0
+Gymnastics,F,5,0,5
+Gymnastics,M,22,22,0
+Handball,M,2,2,0
+Hockey,M,2,2,0
+"Ice Hockey",M,2,2,0
+"Jeu De Paume",M,1,1,0
+Judo,F,3,0,3
+Judo,M,12,12,0
+Lacrosse,M,1,1,0
+Luge,F,1,0,1
+Luge,M,3,3,0
+"Military Ski Patrol",F,1,0,1
+"Modern Pentathlon",M,3,3,0
+Motorboating,M,3,3,0
+"Nordic Combined",F,2,0,2
+"Nordic Combined",M,3,3,0
+Polo,F,1,0,1
+Racquets,M,2,2,0
+"Rhythmic Gymnastics",M,2,2,0
+Roque,M,1,1,0
+Rowing,F,3,0,3
+Rowing,M,20,20,0
+Rugby,M,1,1,0
+"Rugby Sevens",M,2,2,0
+Sailing,F,9,0,9
+Sailing,M,28,28,0
+Shooting,F,21,0,21
+Shooting,M,62,62,0
+"Short Track Speed Skating",M,8,8,0
+Skeleton,M,2,2,0
+"Ski Jumping",F,1,0,1
+"Ski Jumping",M,3,3,0
+Snowboarding,F,4,0,4
+Snowboarding,M,8,8,0
+Softball,M,1,1,0
+"Speed Skating",F,4,0,4
+"Speed Skating",M,9,9,0
+Swimming,F,7,0,7
+Swimming,M,47,47,0
+"Synchronized Swimming",F,1,0,1
+"Synchronized Swimming",M,2,2,0
+"Table Tennis",F,1,0,1
+"Table Tennis",M,5,5,0
+Taekwondo,M,8,8,0
+Tennis,F,1,0,1
+Tennis,M,8,8,0
+Trampolining,M,2,2,0
+Triathlon,M,2,2,0
+Tug-Of-War,M,1,1,0
+Volleyball,M,2,2,0
+"Water Polo",M,2,2,0
+Weightlifting,F,4,0,4
+Weightlifting,M,17,17,0
+Wrestling,F,3,0,3
+Wrestling,M,27,27,0

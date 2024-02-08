@@ -1,0 +1,493 @@
+sport_name,region_name,participants
+Aeronautics,Kazakhstan,1
+"Alpine Skiing",Norway,3
+"Alpine Skiing",Egypt,2
+"Alpine Skiing",Ethiopia,1
+"Alpine Skiing",Romania,1
+"Alpine Skiing",Spain,1
+"Alpine Skiing","United Arab Republic",1
+Alpinism,Belarus,1
+Archery,Egypt,3
+Archery,USA,2
+Archery,France,2
+Archery,Germany,2
+Archery,Australia,1
+Archery,Belarus,1
+Archery,Benin,1
+Archery,Colombia,1
+Archery,Georgia,1
+Archery,Jordan,1
+Archery,Lebanon,1
+Archery,Mexico,1
+Archery,Morocco,1
+Archery,Palestine,1
+Archery,Russia,1
+Archery,Slovenia,1
+Archery,Sweden,1
+Archery,"United Arab Republic",1
+Archery,Ethiopia,1
+Archery,"West Germany",1
+"Art Competitions",Egypt,6
+"Art Competitions",Russia,2
+"Art Competitions",USA,2
+"Art Competitions",Brazil,1
+"Art Competitions",Germany,1
+"Art Competitions",Hungary,1
+"Art Competitions",Japan,1
+"Art Competitions",Kuwait,1
+"Art Competitions",Lebanon,1
+"Art Competitions",Norway,1
+"Art Competitions",Poland,1
+"Art Competitions",Cameroon,1
+"Art Competitions",Somalia,1
+"Art Competitions",Spain,1
+"Art Competitions",Sweden,1
+"Art Competitions",Switzerland,1
+"Art Competitions",UK,1
+"Art Competitions",Ukraine,1
+"Art Competitions",Chile,1
+Athletics,Egypt,18
+Athletics,Norway,4
+Athletics,Azerbaijan,3
+Athletics,Portugal,3
+Athletics,Sweden,3
+Athletics,USA,3
+Athletics,Algeria,2
+Athletics,Finland,2
+Athletics,France,2
+Athletics,Georgia,2
+Athletics,Kuwait,2
+Athletics,Qatar,2
+Athletics,Spain,2
+Athletics,Uzbekistan,2
+Athletics,Australia,1
+Athletics,Belarus,1
+Athletics,Ireland,1
+Athletics,Italy,1
+Athletics,"Ivory Coast",1
+Athletics,Japan,1
+Athletics,Brazil,1
+Athletics,Lebanon,1
+Athletics,Malaysia,1
+Athletics,Mexico,1
+Athletics,Netherlands,1
+Athletics,"New Zealand",1
+Athletics,Cameroon,1
+Athletics,Pakistan,1
+Athletics,Palestine,1
+Athletics,Canada,1
+Athletics,Chile,1
+Athletics,Romania,1
+Athletics,Russia,1
+Athletics,"South Africa",1
+Athletics,Cuba,1
+Athletics,Angola,1
+Athletics,"United Arab Emirates",1
+Athletics,Estonia,1
+Athletics,Argentina,1
+Badminton,Chad,1
+Badminton,Egypt,1
+Badminton,Finland,1
+Badminton,Italy,1
+Badminton,Japan,1
+Baseball,USA,1
+Basketball,China,1
+Basketball,France,1
+"Basque Pelota",Portugal,1
+"Beach Volleyball",Egypt,2
+"Beach Volleyball","United Arab Republic",1
+Biathlon,Algeria,2
+Biathlon,Egypt,2
+Biathlon,Finland,1
+Biathlon,Kuwait,1
+Biathlon,Spain,1
+Biathlon,Tajikistan,1
+Biathlon,Tanzania,1
+Biathlon,"Unified Team",1
+Biathlon,Uzbekistan,1
+Bobsleigh,Canada,1
+Bobsleigh,France,1
+Bobsleigh,Japan,1
+Bobsleigh,UK,1
+Boxing,Cameroon,2
+Boxing,Armenia,1
+Boxing,Bahrain,1
+Boxing,Bulgaria,1
+Boxing,Comoros,1
+Boxing,Egypt,1
+Boxing,Ethiopia,1
+Boxing,Iraq,1
+Boxing,Italy,1
+Boxing,Morocco,1
+Boxing,Norway,1
+Boxing,Pakistan,1
+Boxing,Sudan,1
+Boxing,Turkey,1
+Canoeing,Egypt,4
+Canoeing,Algeria,1
+Canoeing,Argentina,1
+Canoeing,Bulgaria,1
+Canoeing,France,1
+Canoeing,Iran,1
+Canoeing,Iraq,1
+Canoeing,Japan,1
+Canoeing,Kuwait,1
+Canoeing,Kyrgyzstan,1
+Canoeing,Libya,1
+Canoeing,Mexico,1
+Canoeing,Paraguay,1
+Canoeing,Philippines,1
+Canoeing,Russia,1
+Canoeing,Singapore,1
+Canoeing,Spain,1
+Canoeing,"Sri Lanka",1
+Canoeing,Sudan,1
+Canoeing,Sweden,1
+Canoeing,UK,1
+Canoeing,Uruguay,1
+Cricket,Turkey,1
+Croquet,Latvia,2
+Croquet,Colombia,1
+"Cross Country Skiing",Egypt,5
+"Cross Country Skiing",Japan,3
+"Cross Country Skiing",USA,3
+"Cross Country Skiing",Spain,2
+"Cross Country Skiing","United Arab Republic",2
+"Cross Country Skiing",Monaco,1
+"Cross Country Skiing",Netherlands,1
+"Cross Country Skiing",Nigeria,1
+"Cross Country Skiing",Norway,1
+"Cross Country Skiing",Qatar,1
+"Cross Country Skiing","Sri Lanka",1
+Curling,Egypt,2
+Cycling,Egypt,7
+Cycling,Nigeria,2
+Cycling,Tunisia,2
+Cycling,Spain,2
+Cycling,Japan,2
+Cycling,Algeria,1
+Cycling,Azerbaijan,1
+Cycling,Bangladesh,1
+Cycling,Benin,1
+Cycling,Brazil,1
+Cycling,Canada,1
+Cycling,Colombia,1
+Cycling,Cuba,1
+Cycling,"East Germany",1
+Cycling,Ethiopia,1
+Cycling,France,1
+Cycling,Germany,1
+Cycling,Greece,1
+Cycling,India,1
+Cycling,Iraq,1
+Cycling,Kazakhstan,1
+Cycling,Kenya,1
+Cycling,Morocco,1
+Cycling,Norway,1
+Cycling,Pakistan,1
+Cycling,Russia,1
+Cycling,Sweden,1
+Cycling,Ukraine,1
+Cycling,"United Arab Republic",1
+Cycling,USA,1
+Cycling,Uzbekistan,1
+Cycling,"Virgin Islands",1
+Diving,Egypt,3
+Diving,Brazil,1
+Diving,Eritrea,1
+Diving,Italy,1
+Diving,Japan,1
+Diving,Malaysia,1
+Diving,Maldives,1
+Diving,Syria,1
+Equestrianism,Iraq,3
+Equestrianism,Egypt,2
+Equestrianism,France,2
+Equestrianism,Portugal,2
+Equestrianism,Sweden,2
+Equestrianism,Jordan,1
+Equestrianism,Kuwait,1
+Equestrianism,Malaysia,1
+Equestrianism,Norway,1
+Equestrianism,Djibouti,1
+Equestrianism,Italy,1
+Fencing,Norway,3
+Fencing,Egypt,2
+Fencing,Sweden,2
+Fencing,Azerbaijan,1
+Fencing,Cameroon,1
+Fencing,Finland,1
+Fencing,France,1
+Fencing,Iran,1
+Fencing,Italy,1
+Fencing,"New Zealand",1
+Fencing,Nigeria,1
+Fencing,"Soviet Union",1
+Fencing,"Unified Team",1
+Fencing,Uzbekistan,1
+"Figure Skating",Egypt,2
+"Figure Skating",Bulgaria,1
+"Figure Skating",Canada,1
+"Figure Skating",France,1
+"Figure Skating",Russia,1
+Football,Denmark,1
+Football,Norway,1
+"Freestyle Skiing",Egypt,4
+"Freestyle Skiing",Jordan,1
+"Freestyle Skiing",Kuwait,1
+"Freestyle Skiing","North Yemen",1
+"Freestyle Skiing",Romania,1
+"Freestyle Skiing","West Germany",1
+Golf,Australia,1
+Golf,Nicaragua,1
+Golf,Russia,1
+Gymnastics,Egypt,7
+Gymnastics,Finland,5
+Gymnastics,Norway,2
+Gymnastics,Sweden,2
+Gymnastics,Morocco,1
+Gymnastics,Netherlands,1
+Gymnastics,Cuba,1
+Gymnastics,Portugal,1
+Gymnastics,Russia,1
+Gymnastics,France,1
+Gymnastics,UK,1
+Handball,Bulgaria,1
+Handball,Norway,1
+Hockey,Netherlands,1
+Hockey,Spain,1
+"Ice Hockey",Egypt,1
+"Ice Hockey",Finland,1
+"Jeu De Paume",Switzerland,1
+Judo,Egypt,3
+Judo,Algeria,2
+Judo,Australia,1
+Judo,Bulgaria,1
+Judo,Canada,1
+Judo,China,1
+Judo,Estonia,1
+Judo,Germany,1
+Judo,Israel,1
+Judo,"Saudi Arabia",1
+Judo,Switzerland,1
+Judo,Tajikistan,1
+Lacrosse,Iran,1
+Luge,Japan,2
+Luge,France,1
+Luge,Norway,1
+"Military Ski Patrol",Netherlands,1
+"Modern Pentathlon",Cameroon,1
+"Modern Pentathlon",Iraq,1
+"Modern Pentathlon",Pakistan,1
+Motorboating,Portugal,2
+Motorboating,France,1
+"Nordic Combined",USA,2
+"Nordic Combined",Egypt,1
+"Nordic Combined",Iraq,1
+"Nordic Combined",Morocco,1
+Polo,Canada,1
+Racquets,Russia,1
+Racquets,USA,1
+"Rhythmic Gymnastics",Egypt,2
+Roque,Ukraine,1
+Rowing,Egypt,5
+Rowing,Canada,3
+Rowing,Argentina,2
+Rowing,Iraq,2
+Rowing,Spain,2
+Rowing,Bulgaria,1
+Rowing,Chile,1
+Rowing,Estonia,1
+Rowing,Greece,1
+Rowing,Kuwait,1
+Rowing,Netherlands,1
+Rowing,Nigeria,1
+Rowing,Brazil,1
+Rowing,"United Arab Emirates",1
+Rugby,USA,1
+"Rugby Sevens",Brunei,1
+"Rugby Sevens",Egypt,1
+Sailing,Egypt,8
+Sailing,"Soviet Union",3
+Sailing,Finland,2
+Sailing,Japan,2
+Sailing,Russia,2
+Sailing,Chile,1
+Sailing,France,1
+Sailing,Guyana,1
+Sailing,Hungary,1
+Sailing,India,1
+Sailing,Iran,1
+Sailing,"Ivory Coast",1
+Sailing,Jordan,1
+Sailing,Kuwait,1
+Sailing,Malaysia,1
+Sailing,Monaco,1
+Sailing,Netherlands,1
+Sailing,Norway,1
+Sailing,Portugal,1
+Sailing,"South Africa",1
+Sailing,Nigeria,1
+Sailing,Spain,1
+Sailing,Switzerland,1
+Sailing,Ukraine,1
+Sailing,"United Arab Republic",1
+Sailing,"Virgin Islands",1
+Shooting,Egypt,8
+Shooting,Russia,3
+Shooting,"Saudi Arabia",3
+Shooting,Japan,3
+Shooting,Norway,3
+Shooting,Pakistan,3
+Shooting,Malaysia,3
+Shooting,USA,3
+Shooting,Australia,2
+Shooting,Iran,2
+Shooting,Iraq,2
+Shooting,Italy,2
+Shooting,Cameroon,2
+Shooting,UK,2
+Shooting,Ethiopia,2
+Shooting,"Soviet Union",2
+Shooting,Spain,2
+Shooting,Uzbekistan,2
+Shooting,Belarus,1
+Shooting,Brazil,1
+Shooting,Chad,1
+Shooting,Croatia,1
+Shooting,Cuba,1
+Shooting,Estonia,1
+Shooting,France,1
+Shooting,Georgia,1
+Shooting,Germany,1
+Shooting,Guyana,1
+Shooting,"Ivory Coast",1
+Shooting,Jordan,1
+Shooting,Kuwait,1
+Shooting,Lebanon,1
+Shooting,Libya,1
+Shooting,Maldives,1
+Shooting,Mali,1
+Shooting,Palestine,1
+Shooting,Panama,1
+Shooting,Sudan,1
+Shooting,"East Germany",1
+Shooting,Argentina,1
+Shooting,Bahrain,1
+Shooting,"Virgin Islands",1
+"Short Track Speed Skating",Canada,1
+"Short Track Speed Skating",Egypt,1
+"Short Track Speed Skating",Kyrgyzstan,1
+"Short Track Speed Skating",Monaco,1
+"Short Track Speed Skating",Norway,1
+"Short Track Speed Skating",Qatar,1
+"Short Track Speed Skating",Syria,1
+"Short Track Speed Skating","West Germany",1
+Skeleton,Japan,2
+"Ski Jumping",Azerbaijan,1
+"Ski Jumping",Egypt,1
+"Ski Jumping",Kuwait,1
+"Ski Jumping",Monaco,1
+Snowboarding,Egypt,2
+Snowboarding,Algeria,1
+Snowboarding,Bulgaria,1
+Snowboarding,France,1
+Snowboarding,Italy,1
+Snowboarding,Singapore,1
+Snowboarding,"South Africa",1
+Snowboarding,Switzerland,1
+Snowboarding,Turkey,1
+Snowboarding,UK,1
+Snowboarding,USA,1
+Softball,Nicaragua,1
+"Speed Skating",Egypt,3
+"Speed Skating",Norway,3
+"Speed Skating",Japan,2
+"Speed Skating",Bulgaria,1
+"Speed Skating","Costa Rica",1
+"Speed Skating",Netherlands,1
+"Speed Skating","United Arab Republic",1
+Swimming,Egypt,5
+Swimming,Italy,4
+Swimming,Azerbaijan,3
+Swimming,Finland,3
+Swimming,Iraq,2
+Swimming,Sweden,2
+Swimming,Pakistan,2
+Swimming,Malaysia,2
+Swimming,Netherlands,2
+Swimming,Georgia,2
+Swimming,"Soviet Union",2
+Swimming,Iran,2
+Swimming,USA,2
+Swimming,Argentina,1
+Swimming,Belarus,1
+Swimming,Belgium,1
+Swimming,Djibouti,1
+Swimming,France,1
+Swimming,Greece,1
+Swimming,Kuwait,1
+Swimming,Lebanon,1
+Swimming,Nigeria,1
+Swimming,Norway,1
+Swimming,Poland,1
+Swimming,Qatar,1
+Swimming,"United Arab Emirates",1
+Swimming,"United Arab Republic",1
+Swimming,Algeria,1
+"Synchronized Swimming",Chad,1
+"Synchronized Swimming",Indonesia,1
+"Synchronized Swimming",Italy,1
+"Table Tennis",Egypt,4
+"Table Tennis",Iran,1
+"Table Tennis",Pakistan,1
+Taekwondo,Algeria,1
+Taekwondo,Japan,1
+Taekwondo,Kyrgyzstan,1
+Taekwondo,Nigeria,1
+Taekwondo,Norway,1
+Taekwondo,Spain,1
+Taekwondo,USA,1
+Tennis,Egypt,2
+Tennis,Spain,2
+Tennis,Cuba,1
+Tennis,Germany,1
+Tennis,Iraq,1
+Tennis,Italy,1
+Tennis,Qatar,1
+Trampolining,Egypt,2
+Trampolining,"United Arab Republic",1
+Triathlon,Egypt,1
+Triathlon,Iraq,1
+Tug-Of-War,Denmark,1
+Volleyball,Hungary,1
+Volleyball,Pakistan,1
+"Water Polo",Chile,1
+"Water Polo",Norway,1
+Weightlifting,"Soviet Union",4
+Weightlifting,Azerbaijan,2
+Weightlifting,Iraq,2
+Weightlifting,Italy,2
+Weightlifting,USA,2
+Weightlifting,Uzbekistan,2
+Weightlifting,Australia,1
+Weightlifting,Egypt,1
+Weightlifting,Estonia,1
+Weightlifting,Nigeria,1
+Weightlifting,Norway,1
+Weightlifting,Spain,1
+Wrestling,Egypt,9
+Wrestling,Azerbaijan,2
+Wrestling,Brunei,2
+Wrestling,Canada,2
+Wrestling,Norway,2
+Wrestling,Ghana,1
+Wrestling,Hungary,1
+Wrestling,Italy,1
+Wrestling,Kazakhstan,1
+Wrestling,Pakistan,1
+Wrestling,Russia,1
+Wrestling,Sudan,1
+Wrestling,Tajikistan,1
+Wrestling,"United Arab Republic",1
+Wrestling,Venezuela,1
